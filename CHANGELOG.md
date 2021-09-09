@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial Commit.
 
 ### Changed
+- Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
 - Tests: update PHPUnit polyfills dependency (yoast/phpunit-polyfills).
 - Update package dependencies
 - Use Node 16.7.0 in tooling. This shouldn't change the behavior of the code itself.
