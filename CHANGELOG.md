@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
+- Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Tests: update PHPUnit polyfills dependency (yoast/phpunit-polyfills).
 - Updated name to automattic/jetpack-search-plugin
 - Updated package dependencies
