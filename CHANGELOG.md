@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
+- General: update required node version to v16.13.2
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Switch to pcov for code coverage.
 - Tests: update PHPUnit polyfills dependency (yoast/phpunit-polyfills).
