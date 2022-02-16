@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Switch to pcov for code coverage.
 - Tests: update PHPUnit polyfills dependency (yoast/phpunit-polyfills).
+- Updated composer.lock
 - Updated name to automattic/jetpack-search-plugin
 - Updated package dependencies
 - Updated package dependencies
