@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added skeleton PHP file to prevent errors upon composer install
 - Initial Commit.
+- Updated lock file
 
 ### Changed
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
