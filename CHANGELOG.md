@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Added skeleton PHP file to prevent errors upon composer install
 - Initial Commit.
+- Search: bootstrap the plugin
 - Updated lock file
 
 ### Changed
