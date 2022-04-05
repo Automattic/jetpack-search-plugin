@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added skeleton PHP file to prevent errors upon composer install
+- E2E tests: added custom error messages to the expect functions
 - Initial Commit.
 - Search: bootstrap the plugin
 - Updated lock file
