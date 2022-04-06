@@ -438,6 +438,18 @@ return array(
 		'version' => '1.5.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-logo/src/class-logo.php'
 	),
+	'Automattic\\Jetpack\\Assets\\Semver' => array(
+		'version' => '1.17.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-semver.php'
+	),
+	'Automattic\\Jetpack\\Assets' => array(
+		'version' => '1.17.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php'
+	),
+	'Jetpack_Tracks_Event' => array(
+		'version' => '1.37.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-event.php'
+	),
 	'Jetpack_XMLRPC_Server' => array(
 		'version' => '1.37.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-xmlrpc-server.php'
@@ -453,6 +465,10 @@ return array(
 	'Jetpack_IXR_Client' => array(
 		'version' => '1.37.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-ixr-client.php'
+	),
+	'Jetpack_Tracks_Client' => array(
+		'version' => '1.37.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/legacy/class-jetpack-tracks-client.php'
 	),
 	'Automattic\\Jetpack\\Terms_Of_Service' => array(
 		'version' => '1.37.9999999.9999999-dev',
@@ -534,6 +550,10 @@ return array(
 		'version' => '1.37.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/webhooks/class-authorize-redirect.php'
 	),
+	'Automattic\\Jetpack\\Tracking' => array(
+		'version' => '1.37.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-tracking.php'
+	),
 	'Automattic\\Jetpack\\Connection\\Manager' => array(
 		'version' => '1.37.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-connection/src/class-manager.php'
@@ -557,26 +577,6 @@ return array(
 	'Automattic\\Jetpack\\Redirect' => array(
 		'version' => '1.7.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php'
-	),
-	'Jetpack_Tracks_Event' => array(
-		'version' => '1.14.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-tracking/legacy/class-jetpack-tracks-event.php'
-	),
-	'Jetpack_Tracks_Client' => array(
-		'version' => '1.14.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-tracking/legacy/class-jetpack-tracks-client.php'
-	),
-	'Automattic\\Jetpack\\Tracking' => array(
-		'version' => '1.14.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-tracking/src/class-tracking.php'
-	),
-	'Automattic\\Jetpack\\Assets\\Semver' => array(
-		'version' => '1.17.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-semver.php'
-	),
-	'Automattic\\Jetpack\\Assets' => array(
-		'version' => '1.17.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-assets.php'
 	),
 	'Automattic\\Jetpack\\A8c_Mc_Stats' => array(
 		'version' => '1.4.9999999.9999999-dev',

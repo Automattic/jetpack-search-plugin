@@ -4,14 +4,6 @@ return array(
   'domain' => 'jetpack-search',
   'type' => 'plugins',
   'packages' => array(
-    'jetpack-assets' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-assets',
-      'ver' => '1.17.9999999-dev',
-    ),
-    'jetpack-tracking' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-tracking',
-      'ver' => '1.14.9999999-dev',
-    ),
     'jetpack-plugins-installer' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
       'ver' => '0.1.9999999-dev',
@@ -27,6 +19,10 @@ return array(
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
       'ver' => '1.37.9999999-dev',
+    ),
+    'jetpack-assets' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-assets',
+      'ver' => '1.17.9999999-dev',
     ),
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
@@ -51,6 +47,10 @@ return array(
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '1.30.9999999-dev',
+    ),
+    'jetpack-tracking' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-tracking',
+      'ver' => '1.14.9999999-dev',
     ),
   ),
 );
