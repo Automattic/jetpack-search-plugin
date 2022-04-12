@@ -106,6 +106,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_
         'Automattic\\Jetpack\\Search\\Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-options.php',
         'Automattic\\Jetpack\\Search\\Package' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-package.php',
         'Automattic\\Jetpack\\Search\\Plan' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-plan.php',
+        'Automattic\\Jetpack\\Search\\Product' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-product.php',
         'Automattic\\Jetpack\\Search\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-rest-controller.php',
         'Automattic\\Jetpack\\Search\\Search_Widget' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/widgets/class-search-widget.php',
         'Automattic\\Jetpack\\Search\\Settings' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-settings.php',
