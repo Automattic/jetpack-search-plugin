@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial Commit.
 - Search: bootstrap the plugin
 - Updated lock file
+- Use publicize composer config package
 
 ### Changed
 - Allow Node ^14.17.6 to be used in this project. This shouldn't change the behavior of the code itself.
