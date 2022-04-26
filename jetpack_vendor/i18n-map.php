@@ -14,7 +14,7 @@ return array(
     ),
     'jetpack-connection' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-connection',
-      'ver' => '1.39.9999999-dev',
+      'ver' => '1.40.9999999-dev',
     ),
     'jetpack-licensing' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
@@ -27,10 +27,6 @@ return array(
     'jetpack-my-jetpack' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-my-jetpack',
       'ver' => '1.2.9999999-dev',
-    ),
-    'jetpack-tracking' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-tracking',
-      'ver' => '1.14.9999999-dev',
     ),
     'jetpack-config' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-config',
