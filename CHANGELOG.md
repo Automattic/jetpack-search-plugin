@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - E2E tests - bumped dependencies versions
 - E2E tests: moved Search tests into search plugin folder
 - General: update required node version to v16.13.2
+- Janitorial: require a more recent version of WordPress now that WP 6.0 is coming out.
 - Remove use of `pnpx` in preparation for pnpm 7.0.
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Switch to pcov for code coverage.
