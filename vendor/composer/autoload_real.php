@@ -23,29 +23,16 @@ class ComposerAutoloaderInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_
         }
 
         spl_autoload_register(array('ComposerAutoloaderInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha', 'loadClassLoader'), true, true);
-        self::$loader = $loader = new \Composer\Autoload\ClassLoader(\dirname(\dirname(__FILE__)));
+        self::$loader = $loader = new \Composer\Autoload\ClassLoader(\dirname(__DIR__));
         spl_autoload_unregister(array('ComposerAutoloaderInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha', 'loadClassLoader'));
 
-        $useStaticLoader = PHP_VERSION_ID >= 50600 && !defined('HHVM_VERSION') && (!function_exists('zend_loader_file_encoded') || !zend_loader_file_encoded());
-        if ($useStaticLoader) {
-            require __DIR__ . '/autoload_static.php';
-
-            call_user_func(\Composer\Autoload\ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha::getInitializer($loader));
-        } else {
-            $classMap = require __DIR__ . '/autoload_classmap.php';
-            if ($classMap) {
-                $loader->addClassMap($classMap);
-            }
-        }
+        require __DIR__ . '/autoload_static.php';
+        call_user_func(\Composer\Autoload\ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha::getInitializer($loader));
 
         $loader->setClassMapAuthoritative(true);
         $loader->register(true);
 
-        if ($useStaticLoader) {
-            $includeFiles = Composer\Autoload\ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha::$files;
-        } else {
-            $includeFiles = require __DIR__ . '/autoload_files.php';
-        }
+        $includeFiles = \Composer\Autoload\ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha::$files;
         foreach ($includeFiles as $fileIdentifier => $file) {
             composerRequireb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ0_1_0_alpha($fileIdentifier, $file);
         }
