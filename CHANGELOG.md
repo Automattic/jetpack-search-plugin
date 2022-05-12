@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Initial Commit.
 - Search: After plugin activation, automatically redirect to the Search dashboard while enabling the search module and instant search if eligible
 - Search: bootstrap the plugin
+- Search plugin: show submenu when co-existing with Jetpack and site connected
 - Updated lock file
 - Use publicize composer config package
 
