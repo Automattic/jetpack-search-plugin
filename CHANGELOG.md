@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added skeleton PHP file to prevent errors upon composer install
+- Added Social card to My Jetpack.
 - E2E tests: added custom error messages to the expect functions
 - Initial Commit.
 - Search: After plugin activation, automatically redirect to the Search dashboard while enabling the search module and instant search if eligible
