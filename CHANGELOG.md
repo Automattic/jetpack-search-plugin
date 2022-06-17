@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - E2E tests: bump @playwright/test and allure-playwright versions
+- Renaming master to trunk.
 - Updated package dependencies.
 
 ### Fixed

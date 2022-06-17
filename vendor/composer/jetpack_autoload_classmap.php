@@ -27,7 +27,7 @@ return array(
 		'path'    => $vendorDir . '/automattic/jetpack-autoloader/src/AutoloadFileWriter.php'
 	),
 	'Automattic\\Jetpack\\Search_Plugin\\Jetpack_Search_Plugin' => array(
-		'version' => 'dev-master',
+		'version' => 'dev-trunk',
 		'path'    => $baseDir . '/src/class-jetpack-search-plugin.php'
 	),
 	'Automattic\\Jetpack\\Sync\\JSON_Deflate_Array_Codec' => array(
