@@ -330,6 +330,18 @@ return array(
 		'version' => '0.15.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/class-package.php'
 	),
+	'Automattic\\Jetpack\\Composer\\Plugin' => array(
+		'version' => '1.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-plugin.php'
+	),
+	'Automattic\\Jetpack\\Composer\\Manager' => array(
+		'version' => '1.1.9999999.9999999-dev',
+		'path'    => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-manager.php'
+	),
+	'Automattic\\Jetpack\\Password_Checker' => array(
+		'version' => '0.2.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php'
+	),
 	'Automattic\\Jetpack\\My_Jetpack\\Products\\Boost' => array(
 		'version' => '1.7.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-boost.php'
@@ -410,34 +422,6 @@ return array(
 		'version' => '1.7.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/class-rest-products.php'
 	),
-	'Automattic\\Jetpack\\Composer\\Plugin' => array(
-		'version' => '1.1.9999999.9999999-dev',
-		'path'    => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-plugin.php'
-	),
-	'Automattic\\Jetpack\\Composer\\Manager' => array(
-		'version' => '1.1.9999999.9999999-dev',
-		'path'    => $vendorDir . '/automattic/jetpack-composer-plugin/src/class-manager.php'
-	),
-	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
-		'version' => '0.1.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
-	),
-	'Automattic\\Jetpack\\Plugins_Installer' => array(
-		'version' => '0.1.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
-	),
-	'Automattic\\Jetpack\\Password_Checker' => array(
-		'version' => '0.2.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-password-checker/src/class-password-checker.php'
-	),
-	'Automattic\\Jetpack\\Licensing\\Endpoints' => array(
-		'version' => '1.7.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php'
-	),
-	'Automattic\\Jetpack\\Licensing' => array(
-		'version' => '1.7.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php'
-	),
 	'Automattic\\Jetpack\\IdentityCrisis\\UI' => array(
 		'version' => '0.8.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-identity-crisis/src/class-ui.php'
@@ -454,9 +438,25 @@ return array(
 		'version' => '1.9.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-config/src/class-config.php'
 	),
+	'Automattic\\Jetpack\\Automatic_Install_Skin' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-automatic-install-skin.php'
+	),
+	'Automattic\\Jetpack\\Plugins_Installer' => array(
+		'version' => '0.1.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
+	),
 	'Automattic\\Jetpack\\Assets\\Logo' => array(
 		'version' => '1.5.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-logo/src/class-logo.php'
+	),
+	'Automattic\\Jetpack\\Licensing\\Endpoints' => array(
+		'version' => '1.7.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php'
+	),
+	'Automattic\\Jetpack\\Licensing' => array(
+		'version' => '1.7.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php'
 	),
 	'Automattic\\Jetpack\\Assets\\Semver' => array(
 		'version' => '1.17.9999999.9999999-dev',

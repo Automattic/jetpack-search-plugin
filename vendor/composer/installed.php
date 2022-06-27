@@ -115,7 +115,7 @@
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
-            'reference' => '4eef85685b6c318b6c667e0f42cc0a5e2dd6a663',
+            'reference' => '7eef82ff021eb4b531aa40a075db5cc54f106571',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-password-checker' => array(
@@ -160,7 +160,7 @@
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-search',
             'aliases' => array(),
-            'reference' => '52ec4a2adc1199b7611a86af97c865def1c480c6',
+            'reference' => 'eb66e9b03b35e182a5735c806a8c9349acf51511',
             'dev_requirement' => false,
         ),
         'automattic/jetpack-search-plugin' => array(

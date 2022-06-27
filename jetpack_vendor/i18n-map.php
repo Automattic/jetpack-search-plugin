@@ -4,10 +4,6 @@ return array(
   'domain' => 'jetpack-search',
   'type' => 'plugins',
   'packages' => array(
-    'jetpack-plugins-installer' => array(
-      'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
-      'ver' => '0.1.9999999-dev',
-    ),
     'jetpack-admin-ui' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-admin-ui',
       'ver' => '0.2.9999999-dev',
@@ -19,6 +15,10 @@ return array(
     'jetpack-licensing' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-licensing',
       'ver' => '1.7.9999999-dev',
+    ),
+    'jetpack-plugins-installer' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-plugins-installer',
+      'ver' => '0.1.9999999-dev',
     ),
     'jetpack-assets' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-assets',
