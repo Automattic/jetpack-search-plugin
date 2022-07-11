@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- E2E tests: fixed pretest cleanup script not running
 - Search: update plugin README
 
 ## 1.0.0 - 2022-05-30
