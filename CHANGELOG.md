@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Search: start v1.2.0-alpha release
 
+### Fixed
+- Search: Redirect to the Search Dashboard on activation only when Jetpack plugin does not exist
+
 ## [1.1.0-beta] - 2022-07-29
 ### Changed
 - E2E tests: bump @playwright/test and allure-playwright versions
