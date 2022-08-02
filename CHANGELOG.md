@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Fixed
+- Search: Redirect to the Search Dashboard on activation only when Jetpack plugin does not exist
 - Search: update changelog and stable version in readme
 
 ## [1.1.0-beta] - 2022-07-29
