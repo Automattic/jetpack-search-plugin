@@ -14,21 +14,31 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Search: Redirect to the Search Dashboard on activation only when Jetpack plugin does not exist
+- Search: update changelog and stable version in readme
 
 ## [1.1.0-beta] - 2022-07-29
-### Changed
-- E2E tests: bump @playwright/test and allure-playwright versions
-- Renaming master to trunk.
-- Renaming `master` references to `trunk`
-- Updated package dependencies.
+### Added
+- Dashboard: new Record Meter feature to show the breakdown of records in your search index.
 
 ### Fixed
-- E2E tests: fixed pretest cleanup script not running
-- Search: update plugin README
+- Instant Search: don't open modal if only sort parameter is set.
+- Instant Search: avoid search query on component mount.
+- Customization: Fix fill color for gridicons in dark mode.
+- Dashboard: fix pricing issue before site is connected to Jetpack.
+- Instant Search: restore support for filtering by multiple post types with post_type=.
+- Instant Search: fix header letter spacing in modal.
+- Instant Search: fix irrelevant widgets added to sidebar during auto config.
+- Customization: hide unsupported taxonomies from Search widget.
+- Customization: re-enable auto-collapsing sidebar in Customberg.
+- Dashboard: fix currency code in upsell page.
+- Instant Search: prevent hidden submit button appearing on focus.
+- Dashboard: minor CSS changes for Hello Dolly compatibility.
+- Instant Search: fix keyboard handling on search options.
+- Instant Search: consistent design for focus states in Search overlay.
 
 ## 1.0.0 - 2022-05-30
 ### Added
 - Initial release.
 
 [1.2.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.1.0-beta...v1.2.0-alpha
-[1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.0.0...v1.1.0-beta
+[1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
