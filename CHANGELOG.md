@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Search: start v1.2.0-alpha release
 
+### Changed
+- Search: changed default overlay trigger to form submission
+
 ### Fixed
 - Search: Redirect to the Search Dashboard on activation only when Jetpack plugin does not exist
 - Search: update changelog and stable version in readme
