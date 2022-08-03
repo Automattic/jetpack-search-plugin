@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Search: changed default overlay trigger to form submission
+- Updated package dependencies.
 
 ## [1.1.0] - 2022-08-02
 ### Added
