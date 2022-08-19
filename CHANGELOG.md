@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Search: start v1.2.0-alpha release
 
 ### Changed
+- Activation: only redirect when activating from the Plugins page in the browser
 - Search: changed default overlay trigger to form submission
 - Updated package dependencies.
 
