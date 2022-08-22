@@ -446,10 +446,6 @@ return array(
 		'version' => '0.2.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-plugins-installer/src/class-plugins-installer.php'
 	),
-	'Automattic\\Jetpack\\Assets\\Logo' => array(
-		'version' => '1.5.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-logo/src/class-logo.php'
-	),
 	'Automattic\\Jetpack\\Licensing' => array(
 		'version' => '1.7.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-licensing.php'
@@ -457,6 +453,42 @@ return array(
 	'Automattic\\Jetpack\\Licensing\\Endpoints' => array(
 		'version' => '1.7.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-licensing/src/class-endpoints.php'
+	),
+	'Automattic\\Jetpack\\JITMS\\Pre_Connection_JITM' => array(
+		'version' => '2.2.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-pre-connection-jitm.php'
+	),
+	'Automattic\\Jetpack\\JITMS\\Rest_Api_Endpoints' => array(
+		'version' => '2.2.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-rest-api-endpoints.php'
+	),
+	'Automattic\\Jetpack\\JITMS\\JITM' => array(
+		'version' => '2.2.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-jitm.php'
+	),
+	'Automattic\\Jetpack\\JITMS\\Post_Connection_JITM' => array(
+		'version' => '2.2.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-jitm/src/class-post-connection-jitm.php'
+	),
+	'Automattic\\Jetpack\\Partner_Coupon' => array(
+		'version' => '1.7.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-partner/src/class-partner-coupon.php'
+	),
+	'Automattic\\Jetpack\\Partner' => array(
+		'version' => '1.7.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-partner/src/class-partner.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection\\User_Agent_Info' => array(
+		'version' => '1.4.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-user-agent-info.php'
+	),
+	'Automattic\\Jetpack\\Device_Detection' => array(
+		'version' => '1.4.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-device-detection/src/class-device-detection.php'
+	),
+	'Automattic\\Jetpack\\Assets\\Logo' => array(
+		'version' => '1.5.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-logo/src/class-logo.php'
 	),
 	'Automattic\\Jetpack\\Assets' => array(
 		'version' => '1.17.9999999.9999999-dev',
@@ -594,13 +626,13 @@ return array(
 		'version' => '1.4.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php'
 	),
-	'Automattic\\Jetpack\\Redirect' => array(
-		'version' => '1.7.9999999.9999999-dev',
-		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php'
-	),
 	'Automattic\\Jetpack\\Admin_UI\\Admin_Menu' => array(
 		'version' => '0.2.9999999.9999999-dev',
 		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-admin-ui/src/class-admin-menu.php'
+	),
+	'Automattic\\Jetpack\\Redirect' => array(
+		'version' => '1.7.9999999.9999999-dev',
+		'path'    => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php'
 	),
 	'Automattic\\Jetpack\\A8c_Mc_Stats' => array(
 		'version' => '1.4.9999999.9999999-dev',
