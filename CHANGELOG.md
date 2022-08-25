@@ -5,20 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.2.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [1.2.0-beta] - 2022-08-25
 ### Added
-- Adds links to Search plugin line on plugins page
-- My Jetpack includes JITMs
-- Search: start v1.2.0-alpha release
+- Adds links to Search plugin line on plugins page [#25718]
+- My Jetpack includes JITMs [#22452]
+- Search: start v1.2.0-alpha release [#25320]
 
 ### Changed
-- Activation: only redirect when activating from the Plugins page in the browser
-- E2E tests: bump dependencies
-- Search: always show Search submenu when Search plugin is installed
-- Search: changed default overlay trigger to form submission
+- Activation: only redirect when activating from the Plugins page in the browser [#25715]
+- E2E tests: bump dependencies [#25725]
+- Search: always show Search submenu when Search plugin is installed [#25774]
+- Search: changed default overlay trigger to form submission [#25093]
 - Updated package dependencies.
 
 ## [1.1.0] - 2022-08-02
@@ -47,5 +44,5 @@ This is an alpha version! The changes listed here are not final.
 - Initial release.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
-[1.2.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.1.0...v1.2.0-alpha
+[1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.1.0...v1.2.0-beta
 [1.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0-beta...1.1.0
