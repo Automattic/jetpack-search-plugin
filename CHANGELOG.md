@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Activation: only redirect when activating from the Plugins page in the browser
 - E2E tests: bump dependencies
+- Search: always show Search submenu when Search plugin is installed
 - Search: changed default overlay trigger to form submission
 - Updated package dependencies.
 
