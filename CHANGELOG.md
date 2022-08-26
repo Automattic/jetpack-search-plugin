@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
+### Added
+- Search: start v1.3.0-alpha release cycle
+
 ## [1.2.0-beta] - 2022-08-25
 ### Added
 - Adds links to Search plugin line on plugins page [#25718]
@@ -44,5 +51,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Initial release.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
+[1.3.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.2.0-beta...v1.3.0-alpha
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.1.0...v1.2.0-beta
 [1.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0-beta...1.1.0
