@@ -57,7 +57,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-admin-ui",
-                "reference": "5346eaf46916b9bcf2162bdf08c19f17d3ffcae9"
+                "reference": "d2312e68678453314444846661f35c244c581d59"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.2",
@@ -95,8 +95,11 @@
                 "test-php": [
                     "@composer phpunit"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -337,7 +340,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-connection",
-                "reference": "b1811cb1ded13dc363068c9234c93bce3cf45505"
+                "reference": "687b5fd37f5eba038e6ed5e88ac47188c7ec7c1a"
             },
             "require": {
                 "automattic/jetpack-a8c-mc-stats": "^1.4",
@@ -386,8 +389,11 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
@@ -513,7 +519,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-identity-crisis",
-                "reference": "6e56de1607111debb11bb0f58c8e7f206f0ce1cd"
+                "reference": "7d55335db3a5e72fbb126086c50fa2874db14a98"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -564,8 +570,11 @@
                 "test-php": [
                     "@composer phpunit"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ],
                 "watch": [
                     "Composer\\Config::disableProcessTimeout",
@@ -659,7 +668,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-licensing",
-                "reference": "4dc08896a6aa6cfe19ec2ad39ab12ef671fe831a"
+                "reference": "f54af01f0f004902c61d0c1656abc3b8a514bd21"
             },
             "require": {
                 "automattic/jetpack-connection": "^1.45"
@@ -691,8 +700,11 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
@@ -767,7 +779,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-my-jetpack",
-                "reference": "b0bde4438de73dcf17921afa6175ffbc7bf29c1b"
+                "reference": "b52542ee7de68a7c566a855be5ae598571c29dd5"
             },
             "require": {
                 "automattic/jetpack-admin-ui": "^0.2",
@@ -834,8 +846,11 @@
                     "Composer\\Config::disableProcessTimeout",
                     "pnpm run watch"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -854,7 +869,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-partner",
-                "reference": "5d64c6c4e2667171e8b333a447e191a9db24e0f7"
+                "reference": "eda9dc6669da50f0ed37a3bb4fcac48e02f5e7d6"
             },
             "require": {
                 "automattic/jetpack-connection": "^1.45",
@@ -887,8 +902,11 @@
                 "phpunit": [
                     "./vendor/phpunit/phpunit/phpunit --colors=always"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ],
                 "test-coverage": [
                     "php -dpcov.directory=. ./vendor/bin/phpunit --coverage-clover \"$COVERAGE_DIR/clover.xml\""
@@ -913,7 +931,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-password-checker",
-                "reference": "06f341acc32ab42d934b96a7ea8a23c386a70d2f"
+                "reference": "638f942c126ddb65db78df864a8dc6a4a41c36dc"
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.2",
@@ -948,8 +966,11 @@
                 "test-php": [
                     "@composer phpunit"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
@@ -1127,7 +1148,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-search",
-                "reference": "b1afb85ed27b42e55af789f127005e781d9288a5"
+                "reference": "e9de602aa0fca06596e0470c243f6b7e74c90bc6"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17",
@@ -1139,7 +1160,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.2",
-                "automattic/wordbless": "0.3.1",
+                "automattic/wordbless": "^0.4.0",
                 "yoast/phpunit-polyfills": "1.0.3"
             },
             "type": "jetpack-library",
@@ -1186,8 +1207,11 @@
                 "test-php": [
                     "@composer phpunit"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ],
                 "watch": [
                     "Composer\\Config::disableProcessTimeout",
@@ -1264,7 +1288,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-sync",
-                "reference": "e4d7ffe447ee252a9512b3f54e64ab68b7a144a5"
+                "reference": "3f76cb955623c24b1ff86551123beec50280f3c8"
             },
             "require": {
                 "automattic/jetpack-connection": "^1.45",
@@ -1310,8 +1334,11 @@
                 "test-php": [
                     "@composer phpunit"
                 ],
+                "post-install-cmd": [
+                    "WorDBless\\Composer\\InstallDropin::copy"
+                ],
                 "post-update-cmd": [
-                    "php -r \"copy('vendor/automattic/wordbless/src/dbless-wpdb.php', 'wordpress/wp-content/db.php');\""
+                    "WorDBless\\Composer\\InstallDropin::copy"
                 ]
             },
             "license": [
