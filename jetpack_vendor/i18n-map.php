@@ -40,6 +40,10 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-search',
       'ver' => '0.27.9999999-dev',
     ),
+    'jetpack-stats' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-stats',
+      'ver' => '0.2.9999999-dev',
+    ),
     'jetpack-password-checker' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-password-checker',
       'ver' => '0.2.9999999-dev',

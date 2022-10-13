@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Adds ability to autotag, autorelease and autopublish releases
 - E2E tests: use CI build artifacts in e2e tests
+- Enable stats tracking upon establishing a site connection.
 - Search: start v1.3.0-alpha release cycle
 
 ### Changed
