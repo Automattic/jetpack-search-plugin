@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Ported back 1.2.0 release changelog
+- Search: now support 38 languages
 
 ### Removed
 - E2E tests: removed deprecated Slack notification code
