@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Search: start v1.3.0-alpha release cycle
 
 ### Changed
+- Compatibility: WordPress 6.1 compatibility
 - Ported back 1.2.0 release changelog
 - Search: now support 38 languages
 
