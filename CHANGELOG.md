@@ -15,6 +15,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Updated package dependencies.
 
+### Fixed
+- Search: fixed search E2E failure after the new pricing update
+
 ## [1.3.1] - 2022-11-13
 ### Fixed
 - Fixed readme and descriptions for Free tier support and new pricing [#27341]
