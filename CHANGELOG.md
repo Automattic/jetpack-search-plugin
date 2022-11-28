@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Updated package dependencies.
 
 ### Fixed
+- Search: Fixed E2E testing failures after adding a checkmark icon for resolved topics
 - Search: fixed search E2E failure after the new pricing update
 
 ## [1.3.1] - 2022-11-13
