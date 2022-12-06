@@ -46,15 +46,15 @@ return array(
     ),
     'jetpack-search-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-search',
-      'ver' => '0.31.1-alpha',
+      'ver' => '0.31.1',
     ),
     'jetpack-stats' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.4.0-alpha',
+      'ver' => '0.4.0',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.44.2-alpha',
+      'ver' => '1.44.2',
     ),
   ),
 );
