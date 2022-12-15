@@ -184,7 +184,7 @@
         'automattic/jetpack-search' => array(
             'pretty_version' => '0.31.2-alpha',
             'version' => '0.31.2.0-alpha',
-            'reference' => '259902b8cb63603aed9abcb7f9d52b4344ba9d16',
+            'reference' => '05b313826c37cf0d7022344c651d436864874844',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-search',
             'aliases' => array(),

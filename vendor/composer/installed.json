@@ -1148,7 +1148,7 @@
             "dist": {
                 "type": "path",
                 "url": "/tmp/jetpack-build/Automattic/jetpack-search",
-                "reference": "259902b8cb63603aed9abcb7f9d52b4344ba9d16"
+                "reference": "05b313826c37cf0d7022344c651d436864874844"
             },
             "require": {
                 "automattic/jetpack-assets": "^1.17.28",
@@ -1160,7 +1160,7 @@
             },
             "require-dev": {
                 "automattic/jetpack-changelogger": "^3.2.2",
-                "automattic/wordbless": "0.4.0",
+                "automattic/wordbless": "0.4.1",
                 "yoast/phpunit-polyfills": "1.0.4"
             },
             "type": "jetpack-library",
