@@ -12,12 +12,12 @@
 		"automattic/jetpack-my-jetpack": "^2.7.0-alpha",
 		"automattic/jetpack-search": "^0.31.2-alpha",
 		"automattic/jetpack-stats": "^0.4.0",
-		"automattic/jetpack-status": "^1.15.2",
+		"automattic/jetpack-status": "^1.15.3-alpha",
 		"automattic/jetpack-sync": "^1.45.0-alpha",
 		"automattic/jetpack-plugins-installer": "^0.2.2"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^3.2.2",
+		"automattic/jetpack-changelogger": "^3.2.3-alpha",
 		"yoast/phpunit-polyfills": "1.0.4"
 	},
 	"autoload": {
