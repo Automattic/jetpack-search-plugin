@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Update playwright dependency
+
 ## [1.4.0] - 2022-12-12
 ### Added
 - Search: port Search plugin 1.3.1 changelog and plugin description [#27399]
