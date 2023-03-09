@@ -9,7 +9,7 @@
 		"automattic/jetpack-config": "^1.14.0",
 		"automattic/jetpack-connection": "^1.51.1",
 		"automattic/jetpack-identity-crisis": "^0.8.39",
-		"automattic/jetpack-my-jetpack": "^2.7.13",
+		"automattic/jetpack-my-jetpack": "^2.8.0-alpha",
 		"automattic/jetpack-search": "^0.33.2",
 		"automattic/jetpack-stats": "^0.5.1",
 		"automattic/jetpack-status": "^1.16.2",
