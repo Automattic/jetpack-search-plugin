@@ -4,7 +4,7 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.51.1",
+		"automattic/jetpack-connection": "^1.51.2-alpha",
 		"automattic/jetpack-assets": "^1.17.33",
 		"automattic/jetpack-constants": "^1.6.21",
 		"automattic/jetpack-status": "^1.16.2",
@@ -14,7 +14,7 @@
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.2",
 		"yoast/phpunit-polyfills": "1.0.4",
-		"automattic/wordbless": "0.4.1"
+		"automattic/wordbless": "0.4.2"
 	},
 	"autoload": {
 		"classmap": [
