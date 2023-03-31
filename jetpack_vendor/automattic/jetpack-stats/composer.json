@@ -4,6 +4,7 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
+		"automattic/jetpack-assets": "^1.18.0-alpha",
 		"automattic/jetpack-connection": "^1.51.5",
 		"automattic/jetpack-constants": "^1.6.21",
 		"automattic/jetpack-status": "^1.16.3"
@@ -37,7 +38,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-stats/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.5.x-dev"
+			"dev-trunk": "0.6.x-dev"
 		},
 		"textdomain": "jetpack-stats"
 	},
