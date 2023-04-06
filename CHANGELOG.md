@@ -5,9 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.4.2-alpha] - unreleased
+## [1.5.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
+
+### Added
+- Implemented a "tabbed" variation for static filters. This adds tabs on top of the results for each filter group.
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.2.
@@ -128,7 +131,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[1.4.2-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.1...v1.4.2-alpha
+[1.5.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.1...v1.5.0-alpha
 [1.4.1]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.0...v1.4.1
 [1.4.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.3.1...1.4.0
 [1.3.1]: https://github.com/Automattic/jetpack-search-plugin/compare/1.3.0...1.3.1
