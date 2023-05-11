@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: indicate full compatibility with the latest version of WordPress, 6.2.
+- General: update link references to releases in changelog.
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
 - Update WordPress version requirements. Now requires version 6.1.
 
@@ -133,7 +134,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[1.5.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.1...v1.5.0-alpha
+[1.5.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/1.4.1...1.5.0-alpha
 [1.4.1]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.0...v1.4.1
 [1.4.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.3.1...1.4.0
 [1.3.1]: https://github.com/Automattic/jetpack-search-plugin/compare/1.3.0...1.3.1
