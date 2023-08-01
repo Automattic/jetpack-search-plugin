@@ -4,12 +4,12 @@
 	"type": "jetpack-library",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-connection": "^1.56.0-alpha",
+		"automattic/jetpack-connection": "^1.56.0",
 		"automattic/jetpack-assets": "^1.18.7",
 		"automattic/jetpack-constants": "^1.6.22",
 		"automattic/jetpack-status": "^1.18.0",
 		"automattic/jetpack-config": "^1.15.3",
-		"automattic/jetpack-my-jetpack": "^3.2.1-alpha"
+		"automattic/jetpack-my-jetpack": "^3.2.1"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.7",
