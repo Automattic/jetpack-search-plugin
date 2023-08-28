@@ -50,15 +50,15 @@ return array(
     ),
     'jetpack-search-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-search',
-      'ver' => '0.38.5-alpha1692651329',
+      'ver' => '0.38.5',
     ),
     'jetpack-stats' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.6.5-alpha1692641735',
+      'ver' => '0.6.5',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '1.55.2-alpha1692910272',
+      'ver' => '1.55.2',
     ),
   ),
 );
