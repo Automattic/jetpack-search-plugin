@@ -9,11 +9,11 @@
 		"automattic/jetpack-config": "^1.15.4",
 		"automattic/jetpack-connection": "^1.58.2",
 		"automattic/jetpack-identity-crisis": "^0.11.1",
-		"automattic/jetpack-my-jetpack": "^3.10.0-alpha",
-		"automattic/jetpack-search": "^0.39.3-alpha",
-		"automattic/jetpack-stats": "^0.6.6-alpha",
+		"automattic/jetpack-my-jetpack": "^3.10.0",
+		"automattic/jetpack-search": "^0.39.3",
+		"automattic/jetpack-stats": "^0.6.6",
 		"automattic/jetpack-status": "^1.18.5",
-		"automattic/jetpack-sync": "^1.59.0-alpha",
+		"automattic/jetpack-sync": "^1.59.1-alpha",
 		"automattic/jetpack-plugins-installer": "^0.2.5"
 	},
 	"require-dev": {
