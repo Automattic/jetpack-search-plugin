@@ -14,7 +14,7 @@
 		"automattic/jetpack-stats": "^0.6.6",
 		"automattic/jetpack-status": "^1.19.0",
 		"automattic/jetpack-sync": "^1.60.1",
-		"automattic/jetpack-plugins-installer": "^0.2.5"
+		"automattic/jetpack-plugins-installer": "^0.2.6-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^3.3.11",
