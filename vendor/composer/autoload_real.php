@@ -22,6 +22,8 @@ class ComposerAutoloaderInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_
             return self::$loader;
         }
 
+        require __DIR__ . '/platform_check.php';
+
         spl_autoload_register(array('ComposerAutoloaderInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_0_0_alpha', 'loadClassLoader'), true, true);
         self::$loader = $loader = new \Composer\Autoload\ClassLoader(\dirname(__DIR__));
         spl_autoload_unregister(array('ComposerAutoloaderInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_0_0_alpha', 'loadClassLoader'));
