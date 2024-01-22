@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update WordPress version requirements to WordPress 6.2.
 - General: update WordPress version requirements to WordPress 6.3.
 - Remove conditional rendering from zendesk chat widget component due to it being handled by an api endpoint now
+- Updated package dependencies.
 - Update lockfile
 - Update WordPress version requirements. Now requires version 6.1.
 
