@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.0.1-alpha] - unreleased
+## [2.1.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Showing My Jetpack link on plugins page even if the plugin is not installed
 - Updated package dependencies.
+- Update package lock
 
 ## [2.0.0] - 2024-02-07
 ### Added
@@ -142,7 +143,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[2.0.1-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/2.0.0...2.0.1-alpha
+[2.1.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/2.0.0...2.1.0-alpha
 [2.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.4.1...2.0.0
 [1.4.1]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.0...v1.4.1
 [1.4.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.3.1...1.4.0
