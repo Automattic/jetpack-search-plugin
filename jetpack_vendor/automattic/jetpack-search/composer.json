@@ -9,8 +9,8 @@
 		"automattic/jetpack-assets": "^2.1.4",
 		"automattic/jetpack-constants": "^2.0.1",
 		"automattic/jetpack-status": "^2.1.2",
-		"automattic/jetpack-config": "^2.0.1-alpha",
-		"automattic/jetpack-my-jetpack": "^4.17.0-alpha"
+		"automattic/jetpack-config": "^2.0.1",
+		"automattic/jetpack-my-jetpack": "^4.17.0"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.1.1",
