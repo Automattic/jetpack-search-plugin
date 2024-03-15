@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress, 6.5.
+- Only show installation errors on plugins page
 - Showing My Jetpack link on plugins page even if the plugin is not installed
 - Updated package dependencies.
 - Update package lock
