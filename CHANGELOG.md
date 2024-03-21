@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - New setting in /sties/$site/settings that is not relevant to this plugin.
+- Trigger red bubble notification when bad install is detected
 
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress, 6.5.
