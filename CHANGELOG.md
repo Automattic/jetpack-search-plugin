@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 This is an alpha version! The changes listed here are not final.
 
 ### Added
+- Add Woocommerce event remove_order_items to Jetpack Sync
 - New setting in /sties/$site/settings that is not relevant to this plugin.
 - Packages: add version tracking for identity-crisis package.
 - Trigger red bubble notification when bad install is detected
