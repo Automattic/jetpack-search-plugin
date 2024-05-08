@@ -8,10 +8,10 @@
 		"automattic/jetpack-connection": "^2.7.6",
 		"automattic/jetpack-assets": "^2.1.9",
 		"automattic/jetpack-constants": "^2.0.2",
-		"automattic/jetpack-status": "^3.0.3-alpha",
+		"automattic/jetpack-status": "^3.0.3",
 		"automattic/jetpack-config": "^2.0.2",
-		"automattic/jetpack-my-jetpack": "^4.23.0",
-		"automattic/jetpack-sync": "^2.16.0-alpha"
+		"automattic/jetpack-my-jetpack": "^4.23.1",
+		"automattic/jetpack-sync": "^2.16.0"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.3",
