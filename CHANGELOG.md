@@ -20,6 +20,7 @@ This is an alpha version! The changes listed here are not final.
 - General: update WordPress version requirements to WordPress 6.4.
 - General: use wp_admin_notice function introduced in WP 6.4 to display notices.
 - Only show installation errors on plugins page
+- Remove explicit Plugin Install package dependency.
 - Showing My Jetpack link on plugins page even if the plugin is not installed
 - Updated package dependencies.
 - Update package lock
