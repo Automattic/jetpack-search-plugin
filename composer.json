@@ -13,7 +13,7 @@
 		"automattic/jetpack-search": "^0.44.7",
 		"automattic/jetpack-stats": "^0.12.5",
 		"automattic/jetpack-status": "^3.1.0",
-		"automattic/jetpack-sync": "^2.16.4"
+		"automattic/jetpack-sync": "^2.16.5-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.4",
