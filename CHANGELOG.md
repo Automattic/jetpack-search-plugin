@@ -5,25 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [2.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [2.1.0] - 2024-05-23
 ### Added
-- Add Woocommerce event remove_order_items to Jetpack Sync
-- New setting in /sties/$site/settings that is not relevant to this plugin.
-- Packages: add version tracking for identity-crisis package.
-- Trigger red bubble notification when bad install is detected
+- Trigger a red bubble notification when bad plugin install is detected. [#36449]
 
 ### Changed
-- General: indicate compatibility with the upcoming version of WordPress, 6.5.
-- General: update WordPress version requirements to WordPress 6.4.
-- General: use wp_admin_notice function introduced in WP 6.4 to display notices.
-- Only show installation errors on plugins page
-- Remove explicit Plugin Install package dependency.
-- Showing My Jetpack link on plugins page even if the plugin is not installed
-- Updated package dependencies.
-- Update package lock
+- Update WordPRess tested version to 6.5. [#35820]
+- Update minimum WordPress version requirement to WordPress 6.4. [#37047]
+- Only show installation errors on the plugins page. [#36390]
+- Show My Jetpack link on the plugins page even if the plugin is not installed. [#35523]
 
 ## [2.0.0] - 2024-02-07
 ### Added
@@ -151,7 +141,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[2.1.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/2.0.0...2.1.0-alpha
+[2.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.4.1...2.0.0
 [1.4.1]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.0...v1.4.1
 [1.4.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.3.1...1.4.0

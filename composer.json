@@ -9,11 +9,11 @@
 		"automattic/jetpack-config": "^2.0.2",
 		"automattic/jetpack-connection": "^2.8.4",
 		"automattic/jetpack-identity-crisis": "^0.20.0",
-		"automattic/jetpack-my-jetpack": "^4.24.0-alpha",
+		"automattic/jetpack-my-jetpack": "^4.24.0",
 		"automattic/jetpack-search": "^0.44.7",
 		"automattic/jetpack-stats": "^0.12.5",
 		"automattic/jetpack-status": "^3.2.0",
-		"automattic/jetpack-sync": "^2.16.6-alpha"
+		"automattic/jetpack-sync": "^2.16.6"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.4",
@@ -34,6 +34,7 @@
 		"build-production": "pnpm run build-production",
 		"build-development": "pnpm run build"
 	},
+	"repositories": [],
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"extra": {
@@ -54,7 +55,7 @@
 	},
 	"config": {
 		"sort-packages": true,
-		"autoloader-suffix": "b462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_1_0_alpha",
+		"autoloader-suffix": "b462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_1_0",
 		"allow-plugins": {
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true,
