@@ -13,7 +13,7 @@
 		"automattic/jetpack-search": "^0.44.7",
 		"automattic/jetpack-stats": "^0.12.5",
 		"automattic/jetpack-status": "^3.2.0",
-		"automattic/jetpack-sync": "^2.16.6"
+		"automattic/jetpack-sync": "^3.0.0-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^4.2.4",
@@ -54,7 +54,7 @@
 	},
 	"config": {
 		"sort-packages": true,
-		"autoloader-suffix": "b462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_1_0",
+		"autoloader-suffix": "b462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_1_1_alpha",
 		"allow-plugins": {
 			"automattic/jetpack-autoloader": true,
 			"automattic/jetpack-composer-plugin": true,
