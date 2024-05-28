@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Remove the 'jetpack-identity-crisis' dependency.
+
 ## [2.1.0] - 2024-05-23
 ### Added
 - Trigger a red bubble notification when bad plugin install is detected. [#36449]
