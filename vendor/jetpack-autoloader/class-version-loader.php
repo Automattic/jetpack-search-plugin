@@ -5,7 +5,7 @@
  * @package automattic/jetpack-autoloader
  */
 
-namespace Automattic\Jetpack\Autoloader\jpb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_1_1_alpha\al3_0_7;
+namespace Automattic\Jetpack\Autoloader\jpb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ2_1_1_alpha\al3_0_8_alpha;
 
  // phpcs:ignore
 
@@ -66,7 +66,7 @@ class Version_Loader {
 	 */
 	public function find_class_file( $class_name ) {
 		$data = $this->select_newest_file(
-			isset( $this->classmap[ $class_name ] ) ? $this->classmap[ $class_name ] : null,
+			$this->classmap[ $class_name ] ?? null,
 			$this->find_psr4_file( $class_name )
 		);
 		if ( ! isset( $data ) ) {
