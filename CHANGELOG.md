@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Remove the 'jetpack-identity-crisis' dependency.
+- Updated package dependencies.
 
 ## [2.1.0] - 2024-05-23
 ### Added
