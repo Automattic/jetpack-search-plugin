@@ -12,10 +12,12 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: indicate compatibility with the upcoming version of WordPress - 6.6.
 - Remove the 'jetpack-identity-crisis' dependency.
-- Updated package dependencies.
 
 ### Removed
 - General: update WordPress version requirements to WordPress 6.5.
+
+### Fixed
+- Updated package dependencies.
 
 ## [2.1.0] - 2024-05-23
 ### Added
