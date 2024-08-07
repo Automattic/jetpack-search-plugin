@@ -133,6 +133,7 @@ return array(
     'Automattic\\Jetpack\\Protect_Status\\Status' => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-status.php',
     'Automattic\\Jetpack\\Redirect' => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php',
     'Automattic\\Jetpack\\Roles' => $baseDir . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php',
+    'Automattic\\Jetpack\\Script_Data' => $baseDir . '/jetpack_vendor/automattic/jetpack-assets/src/class-script-data.php',
     'Automattic\\Jetpack\\Search\\CLI' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/class-cli.php',
     'Automattic\\Jetpack\\Search\\Classic_Search' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/classic-search/class-classic-search.php',
     'Automattic\\Jetpack\\Search\\Customberg' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/customberg/class-customberg.php',
