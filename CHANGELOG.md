@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
+- Revert recent SVG image optimizations.
 - Updated package dependencies.
 
 ## [2.1.0] - 2024-05-23
