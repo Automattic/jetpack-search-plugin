@@ -14,7 +14,7 @@
 		"automattic/jetpack-sync": "^3.7.1-alpha"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^4.2.6-alpha",
+		"automattic/jetpack-changelogger": "^4.2.6",
 		"yoast/phpunit-polyfills": "^1.1.1",
 		"automattic/wordbless": "0.4.2"
 	},
