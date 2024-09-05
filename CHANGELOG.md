@@ -5,23 +5,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.0.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [3.0.0] - 2024-09-05
 ### Changed
-- General: indicate compatibility with the upcoming version of WordPress - 6.6.
-- Remove the 'jetpack-identity-crisis' dependency.
-- Update composer lock file
-- Updated connection js to load its bundle via connection package
-
-### Removed
-- General: update WordPress version requirements to WordPress 6.5.
-
-### Fixed
-- Lossless image optimization of images in projects/plugins [subdirectories from a* through social]
-- Revert recent SVG image optimizations.
-- Updated package dependencies.
+- General: Update WordPress version requirements to WordPress 6.5 and indicate compatibility with WordPress 6.6. [#38382]
 
 ## [2.1.0] - 2024-05-23
 ### Added
@@ -159,7 +145,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[3.0.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/2.1.0...3.0.0-alpha
+[3.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/2.1.0...3.0.0
 [2.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/2.0.0...2.1.0
 [2.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/1.4.1...2.0.0
 [1.4.1]: https://github.com/Automattic/jetpack-search-plugin/compare/v1.4.0...v1.4.1
