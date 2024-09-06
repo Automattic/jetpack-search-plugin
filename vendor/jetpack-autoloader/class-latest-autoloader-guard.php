@@ -5,7 +5,7 @@
  * @package automattic/jetpack-autoloader
  */
 
-namespace Automattic\Jetpack\Autoloader\jpb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ3_0_0\al3_1_0_alpha;
+namespace Automattic\Jetpack\Autoloader\jpb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ3_0_1\al3_1_0;
 
  // phpcs:ignore
 
@@ -93,7 +93,7 @@ class Latest_Autoloader_Guard {
 	 *
 	 * Called from the plugins_loaded hook.
 	 *
-	 * @since 3.1.0-alpha
+	 * @since 3.1.0
 	 * @return void
 	 */
 	public function check_for_conflicting_autoloaders() {
