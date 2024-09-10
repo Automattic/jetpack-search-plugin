@@ -5,8 +5,8 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.0",
-		"automattic/jetpack-connection": "^4.0.2-alpha",
-		"automattic/jetpack-assets": "^2.3.8-alpha",
+		"automattic/jetpack-connection": "^4.0.2",
+		"automattic/jetpack-assets": "^2.3.8",
 		"automattic/jetpack-constants": "^2.0.4",
 		"automattic/jetpack-status": "^4.0.1",
 		"automattic/jetpack-config": "^2.0.4",
