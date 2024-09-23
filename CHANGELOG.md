@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Removed
 - Connection: Removed deprecated method features_available
+- Connection: Removed features_enabled deprecated method
 
 ## [3.0.1] - 2024-09-06
 ### Changed
