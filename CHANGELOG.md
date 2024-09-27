@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Removed deprecated method features_available
 - Connection: Removed features_enabled deprecated method
 
+### Fixed
+- My Jetpack: visual update to the GlobalNotice component look better on mobile.
+
 ## [3.0.1] - 2024-09-06
 ### Changed
 - Internal updates.
