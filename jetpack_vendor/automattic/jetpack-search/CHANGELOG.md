@@ -11,6 +11,8 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - Classic Widget: update assets' enqueuing strategy to ensure compatibility with the Elementor plugin.
+- Exclude corejs `exnext.iterator.` polyfills to avoid bloating the bundle.
+- Updated package dependencies.
 
 ## [0.45.12] - 2024-11-04
 ### Added
