@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Enable test coverage.
 - My Jetpack: update the recommendations section in My Jetpack to include a slider interaction for the cards.
+- Search: Added ability to customize results
 
 ### Changed
 - Classic Widget: update assets' enqueuing strategy to ensure compatibility with the Elementor plugin.
