@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [3.1.0-alpha] - unreleased
+## [4.0.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Connection: Removed deprecated method features_available
 - Connection: Removed features_enabled deprecated method
+- General: Update minimum WordPress version to 6.6.
 
 ### Fixed
 - My Jetpack: visual update to the GlobalNotice component look better on mobile.
@@ -171,7 +172,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[3.1.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/3.0.1...3.1.0-alpha
+[4.0.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/3.0.1...4.0.0-alpha
 [3.0.1]: https://github.com/Automattic/jetpack-search-plugin/compare/3.0.0...3.0.1
 [3.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/2.1.0...3.0.0
 [2.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/2.0.0...2.1.0
