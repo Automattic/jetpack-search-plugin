@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - Connection: Removed deprecated method features_available
 - Connection: Removed features_enabled deprecated method
+- General: Update minimum PHP version to 7.2.
 - General: Update minimum WordPress version to 6.6.
 
 ### Fixed
