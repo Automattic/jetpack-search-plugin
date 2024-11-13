@@ -58,11 +58,11 @@ return array(
     ),
     'jetpack-protect-models' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-models',
-      'ver' => '0.4.0-alpha1731518828',
+      'ver' => '0.4.0-alpha1731526088',
     ),
     'jetpack-protect-status' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-protect-status',
-      'ver' => '0.3.0-alpha1731518828',
+      'ver' => '0.3.0-alpha1731526088',
     ),
     'jetpack-search-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-search',
