@@ -7,11 +7,11 @@
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.0.1-alpha",
 		"automattic/jetpack-constants": "^3.0.0",
-		"automattic/jetpack-status": "^5.0.0"
+		"automattic/jetpack-status": "^5.0.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^1.1.1",
-		"automattic/jetpack-changelogger": "^5.0.0",
+		"automattic/jetpack-changelogger": "^5.1.0-alpha",
 		"automattic/wordbless": "dev-master"
 	},
 	"suggest": {
