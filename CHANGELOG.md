@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.6.
 
 ### Fixed
+- E2E Tests: Only install single browser used by Playwright.
 - My Jetpack: visual update to the GlobalNotice component look better on mobile.
 
 ## [3.0.1] - 2024-09-06
