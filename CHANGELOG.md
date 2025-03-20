@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Connection: Disconnecting a connection owner account will disconnect all other users first.
 - jetpack-components: Export the getRedirectUrl function with subpath
+- My Jetpack: An onboarding screen has been implemented to provide clear, step-by-step instructions for new users connecting to Jetpack.
 
 ### Changed
 - Code: Use function-style exit() and die() with a default status code of 0.
