@@ -22,6 +22,9 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 - Update the unowned section from a product grid to a product list
 
+### Fixed
+- Search: Ensure the count of returned results is shown after searching, i.e., "Found 3 results for...", "Found 1 result for...".
+
 ## [4.0.0] - 2025-01-10
 ### Added
 - Enable test coverage. [#39961]
