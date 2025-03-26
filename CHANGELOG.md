@@ -19,6 +19,7 @@ This is an alpha version! The changes listed here are not final.
 - Code: Use function-style exit() and die() with a default status code of 0.
 - Connection: Allow pre-selected login providers
 - Connection: Display connection status on Users page independent of the SSO module.
+- General: indicate compatibility with the upcoming version of WordPress - 6.8.
 - Updated composer.lock
 - Updated package dependencies.
 - Update package dependencies.
