@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Added more error logging.
 - Adding My Jetpack tour.
 
+### Changed
+- Update package dependencies.
+
 ## [4.1.0] - 2025-04-04
 ### Added
 - Add Account Protection initialization. [#40925]
