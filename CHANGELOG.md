@@ -16,6 +16,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- My Jetpack: Fix social login getting stuck when email input not empty
+
 ## [4.1.0] - 2025-04-04
 ### Added
 - Add Account Protection initialization. [#40925]
