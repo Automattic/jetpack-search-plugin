@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Adding My Jetpack tour.
 
 ### Changed
+- My Jetpack: Updated the onboarding UI, changing it to a single button
 - Update package dependencies.
 
 ### Removed
