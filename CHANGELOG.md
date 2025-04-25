@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Adding My Jetpack tour.
 
 ### Changed
+- jetpack-assets now requires jetpack-status so updating composer lock files.
 - My Jetpack: Updated the onboarding UI, changing it to a single button
 - Update package dependencies.
 
