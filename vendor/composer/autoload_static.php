@@ -174,6 +174,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ5_0_0_
         'Automattic\\Jetpack\\Search\\Initial_State' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/dashboard/class-initial-state.php',
         'Automattic\\Jetpack\\Search\\Initializer' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/initializers/class-initializer.php',
         'Automattic\\Jetpack\\Search\\Inline_Search' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/inline-search/class-inline-search.php',
+        'Automattic\\Jetpack\\Search\\Inline_Search_Correction' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/inline-search/class-inline-search-correction.php',
         'Automattic\\Jetpack\\Search\\Instant_Search' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/instant-search/class-instant-search.php',
         'Automattic\\Jetpack\\Search\\Label_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/customizer/customize-controls/class-label-control.php',
         'Automattic\\Jetpack\\Search\\Module_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-module-control.php',
