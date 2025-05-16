@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Added more error logging.
+- Add highlighting of search term in returned search results.
 - Adding My Jetpack tour.
 
 ### Changed
