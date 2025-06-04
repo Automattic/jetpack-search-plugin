@@ -23,6 +23,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Removed
+- Classic Themes: no longer attempts to add a widget to the main sidebar, only replace the Core Search widget.
 - General: Update minimum WordPress version to 6.7.
 
 ### Fixed
