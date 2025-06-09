@@ -27,6 +27,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.7.
 
 ### Fixed
+- Addresses body_class filter fatal in older versions of the Blaskan theme.
 - JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
 - Linting: Fix more Stylelint violations.
 - Mitigate bug with certain p2 theme
