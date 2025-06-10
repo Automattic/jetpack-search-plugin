@@ -200,6 +200,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ5_0_0_
         'Automattic\\Jetpack\\Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-status.php',
         'Automattic\\Jetpack\\Status\\Cache' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-cache.php',
         'Automattic\\Jetpack\\Status\\Host' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-host.php',
+        'Automattic\\Jetpack\\Status\\Request' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-request.php',
         'Automattic\\Jetpack\\Status\\Visitor' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-visitor.php',
         'Automattic\\Jetpack\\Sync\\Actions' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/class-actions.php',
         'Automattic\\Jetpack\\Sync\\Codec_Interface' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-sync/src/interface-codec.php',
