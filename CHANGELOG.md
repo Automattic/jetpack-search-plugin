@@ -5,36 +5,32 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [5.0.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [5.0.0] - 2025-06-10
 ### Added
-- Added more error logging.
-- Add highlighting of search term in returned search results.
-- Adding My Jetpack tour.
+- Add more error logging. [#42959]
+- Add My Jetpack tour. [#42880]
+- Highlight search terms in returned search results. [#43110]
 
 ### Changed
-- E2E Tests: Update config file encryption algorithm.
-- jetpack-assets now requires jetpack-status so updating composer lock files.
-- My Jetpack: Hide backup failure notice when backups are deactivated.
-- My Jetpack: Optimize the images for onboarding slider for faster page load.
-- My Jetpack: Updated the onboarding UI, changing it to a single button
-- Update package dependencies.
+- E2E Tests: Update config file encryption algorithm. [#43523]
+- My Jetpack: Hide backup failure notice when backups are deactivated. [#43568]
+- My Jetpack: Optimize the images for onboarding slider for faster page load. [#43473]
+- My Jetpack: Update the onboarding UI, changing it to a single button. [#43203]
+- Update package dependencies. [#43071] [#43085] [#43425] [#43839]
 
 ### Removed
-- Classic Themes: no longer attempts to add a widget to the main sidebar, only replace the Core Search widget.
-- General: Update minimum WordPress version to 6.7.
+- Classic Themes: Replace the Core Search widget instead of adding a new widget to the main sidebar. [#43450]
+- General: Update minimum WordPress version to 6.7. [#43192]
 
 ### Fixed
-- Addresses body_class filter fatal in older versions of the Blaskan theme.
-- JS Packages: Decrease CSS priority of global styles to prevent them from applying within the editor
-- Linting: Fix more Stylelint violations.
-- Mitigate bug with certain p2 theme
-- My Jetpack: Fixed Onboarding UI responsiveness at 600px.
-- My Jetpack: Fix readability of license activation button on hover.
-- My Jetpack: Fix social login getting stuck when email input not empty
-- Protect against improper calls to the_title() filter.
+- Address `body_class` filter fatal in older versions of the Blaskan theme. [#43797]
+- Block editor: Fix layout issues with the Media Library modal buttons. [#43035]
+- Linting: Fix more Stylelint violations. [#43213]
+- Mitigate bug with certain P2 themes. [#43503]
+- My Jetpack: Fix Onboarding UI responsiveness at 600px. [#43533]
+- My Jetpack: Fix readability of license activation button on hover. [#43550]
+- My Jetpack: Prevent social login from getting stuck when email input is not empty. [#43158]
+- Protect against improper calls to `the_title()` filter. [#43511]
 
 ## [4.1.0] - 2025-04-04
 ### Added
@@ -224,7 +220,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[5.0.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/4.1.0...5.0.0-alpha
+[5.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/4.1.0...5.0.0
 [4.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/4.0.0...4.1.0
 [4.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/3.0.1...4.0.0
 [3.0.1]: https://github.com/Automattic/jetpack-search-plugin/compare/3.0.0...3.0.1
