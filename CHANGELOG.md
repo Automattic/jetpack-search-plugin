@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add archives endpoint support.
 
+### Fixed
+- Autoloader: Prevent double slash in autoloader path.
+
 ## [5.0.0] - 2025-06-10
 ### Added
 - Add more error logging. [#42959]
