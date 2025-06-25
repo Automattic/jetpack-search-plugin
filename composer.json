@@ -7,12 +7,12 @@
 		"automattic/jetpack-autoloader": "^5.0.8",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
-		"automattic/jetpack-connection": "^6.13.9",
+		"automattic/jetpack-connection": "^6.13.10-alpha",
 		"automattic/jetpack-my-jetpack": "^5.16.8-alpha",
-		"automattic/jetpack-search": "^0.52.4",
+		"automattic/jetpack-search": "^0.52.5-alpha",
 		"automattic/jetpack-stats": "^0.17.1",
-		"automattic/jetpack-status": "^5.3.0",
-		"automattic/jetpack-sync": "^4.14.1"
+		"automattic/jetpack-status": "^5.3.1-alpha",
+		"automattic/jetpack-sync": "^4.14.2-alpha"
 	},
 	"require-dev": {
 		"automattic/jetpack-changelogger": "^6.0.5",
