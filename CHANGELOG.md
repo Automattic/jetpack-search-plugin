@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add archives endpoint support.
 
+### Changed
+- My Jetpack: Updating Stats card to include a chart for better analytics.
+
 ### Fixed
 - Autoloader: Prevent double slash in autoloader path.
 - JITM: Fix ineffective caching due to expired plugin sync transient
