@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Autoloader: Prevent double slash in autoloader path.
+- JITM: Fix ineffective caching due to expired plugin sync transient
 
 ## [5.0.0] - 2025-06-10
 ### Added
