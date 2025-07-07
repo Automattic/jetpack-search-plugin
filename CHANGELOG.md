@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Changed
 - My Jetpack: Updating Stats card to include a chart for better analytics.
+- Sync: Ignore the ActivityPub Outbox CPT
 - Update package dependencies.
 
 ### Fixed
