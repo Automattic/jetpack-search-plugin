@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add archives endpoint support.
 
 ### Changed
+- E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript
 - My Jetpack: Enabled access to My Jetpack on WP Multisite.
 - My Jetpack: Updating Stats card to include a chart for better analytics.
 - Sync: Ignore the ActivityPub Outbox CPT
