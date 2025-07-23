@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add archives endpoint support.
+- My Jetpack: Added analytics for empty product search results.
 
 ### Changed
 - E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript
