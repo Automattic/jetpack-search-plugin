@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Autoloader: Prevent double slash in autoloader path.
 - JITM: Fix ineffective caching due to expired plugin sync transient
+- My Jetpack: Fixing footer alignment for diconnected accounts.
 - Update JITMs to remove jQuery dependency
 
 ## [5.0.0] - 2025-06-10
