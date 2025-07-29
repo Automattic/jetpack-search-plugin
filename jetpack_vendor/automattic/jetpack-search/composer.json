@@ -6,7 +6,7 @@
 	"require": {
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^6.16.2-alpha",
-		"automattic/jetpack-assets": "^4.3.0",
+		"automattic/jetpack-assets": "^4.3.1-alpha",
 		"automattic/jetpack-constants": "^3.0.8",
 		"automattic/jetpack-status": "^6.0.0",
 		"automattic/jetpack-config": "^3.1.1",
