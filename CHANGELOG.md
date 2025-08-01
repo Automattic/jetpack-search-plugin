@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - Autoloader: Prevent double slash in autoloader path.
 - JITM: Fix ineffective caching due to expired plugin sync transient
 - My Jetpack: Fixing footer alignment for diconnected accounts.
+- My Jetpack: Prevent expiration alerts for products covered by active bundles
 - My Jetpack: Restoring plan purchase link.
 - Update JITMs to remove jQuery dependency
 
