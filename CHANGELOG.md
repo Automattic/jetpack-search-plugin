@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add archives endpoint support.
+- Added typecheck support for E2E tests.
 - My Jetpack: Added analytics for empty product search results.
 
 ### Changed
