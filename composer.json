@@ -7,7 +7,7 @@
 		"automattic/jetpack-autoloader": "^5.0.9",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
-		"automattic/jetpack-connection": "^6.18.0",
+		"automattic/jetpack-connection": "^6.18.1-alpha",
 		"automattic/jetpack-my-jetpack": "^5.23.0",
 		"automattic/jetpack-search": "^0.52.12",
 		"automattic/jetpack-stats": "^0.17.2",
