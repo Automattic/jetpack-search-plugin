@@ -30,6 +30,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fixing footer alignment for diconnected accounts.
 - My Jetpack: Prevent expiration alerts for products covered by active bundles
 - My Jetpack: Restoring plan purchase link.
+- Search: ensure images are loaded efficiently when on https sites.
 - Update JITMs to remove jQuery dependency
 
 ## [5.0.0] - 2025-06-10
