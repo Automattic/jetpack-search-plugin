@@ -5,34 +5,31 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [5.1.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [5.1.0] - 2025-09-09
 ### Added
-- Add archives endpoint support.
-- Added typecheck support for E2E tests.
-- My Jetpack: Added analytics for empty product search results.
+- Add archives endpoint support. [#44028]
+- Add typecheck support for E2E tests. [#44788]
+- My Jetpack: Add analytics for empty product search results. [#44344]
 
 ### Changed
-- Do not force CRM installation for Complete plan users
-- E2E tests: remove redundant logic in test fixture and converted the fixture to Typscript
-- Improves performance of wpcom comments liking by caching and minimizing API requests.
-- My Jetpack: Enabled access to My Jetpack on WP Multisite.
-- My Jetpack: Fixed multisite availability check for restricted products and modules
-- My Jetpack: Unify the user connection flow with a unified screen.
-- My Jetpack: Updating Stats card to include a chart for better analytics.
-- Sync: Ignore the ActivityPub Outbox CPT
-- Update package dependencies.
+- Remove CRM installation nudge for Complete plan users. [#45026]
+- E2E tests: Remove redundant logic in test fixture and convert the fixture to TypeScript. [#44327]
+- Improve performance of WordPress.com comment likes by caching and minimizing API requests. [#44205]
+- My Jetpack: Enable access to My Jetpack on WP Multisite. [#44260]
+- My Jetpack: Fix multisite availability check for restricted products and modules. [#44710]
+- My Jetpack: Unify the user connection flow with a unified screen. [#44469]
+- My Jetpack: Update Stats card to include a chart for better analytics. [#43870]
+- Sync: Ignore the ActivityPub Outbox CPT. [#44222]
+- Update package dependencies. [#44206] [#44725] [#45096] [#45097]
 
 ### Fixed
-- Autoloader: Prevent double slash in autoloader path.
-- JITM: Fix ineffective caching due to expired plugin sync transient
-- My Jetpack: Fixing footer alignment for diconnected accounts.
-- My Jetpack: Prevent expiration alerts for products covered by active bundles
-- My Jetpack: Restoring plan purchase link.
-- Search: ensure images are loaded efficiently when on https sites.
-- Update JITMs to remove jQuery dependency
+- Autoloader: Prevent double slash in autoloader path. [#44030]
+- JITM: Fix ineffective caching due to expired plugin sync transient. [#44117]
+- My Jetpack: Fix footer alignment for disconnected accounts. [#44468]
+- My Jetpack: Prevent expiration alerts for products covered by active bundles. [#44586]
+- My Jetpack: Restore plan purchase link. [#44535]
+- Search: Ensure images are loaded efficiently when on https sites. [#44851]
+- JITM: Remove jQuery dependency. [#43783]
 
 ## [5.0.0] - 2025-06-10
 ### Added
@@ -249,7 +246,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[5.1.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/5.0.0...5.1.0-alpha
+[5.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.0.0...5.1.0
 [5.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/4.1.0...5.0.0
 [4.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/4.0.0...4.1.0
 [4.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/3.0.1...4.0.0
