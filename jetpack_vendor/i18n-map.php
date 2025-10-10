@@ -70,11 +70,11 @@ return array(
     ),
     'jetpack-stats' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.17.3-alpha1760099206',
+      'ver' => '0.17.3',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '4.22.1-alpha1760099206',
+      'ver' => '4.22.1',
     ),
   ),
 );
