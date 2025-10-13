@@ -11,7 +11,7 @@
 		"automattic/jetpack-my-jetpack": "^5.27.4",
 		"automattic/jetpack-search": "^0.52.22-alpha",
 		"automattic/jetpack-stats": "^0.17.3",
-		"automattic/jetpack-status": "^6.0.4",
+		"automattic/jetpack-status": "^6.1.0-alpha",
 		"automattic/jetpack-sync": "^4.22.1"
 	},
 	"require-dev": {
