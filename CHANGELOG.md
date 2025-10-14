@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Update package dependencies.
 
+### Fixed
+- My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
+
 ## [5.1.0] - 2025-09-09
 ### Added
 - Add archives endpoint support. [#44028]
