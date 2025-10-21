@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Fixed
+- Instant Search: address browser privacy settings from stripping out the search query value.
 - My Jetpack page: fix visual compatibility issue with Hello Dolly plugin.
 
 ## [5.1.0] - 2025-09-09
