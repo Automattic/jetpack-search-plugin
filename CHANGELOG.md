@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 6.9
 
 ### Changed
+- Instant Search: Fix issue where Safari's 'Use advanced tracking and fingerprinting protection' setting breaks Search.
 - Update package dependencies.
 
 ### Fixed
