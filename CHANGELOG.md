@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - IDC: Add revalidation for IDCs.
 
+### Changed
+- Instant Search: Show WooCommerce product filters in filter widget
+
 ## [5.2.2] - 2025-11-21
 ### Fixed
 - Jetpack: Remove getIconColor functions for block icons. [#45992]
