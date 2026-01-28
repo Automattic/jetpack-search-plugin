@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 - Instant Search: Show WooCommerce product filters in filter widget
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Update composer.lock.
+- Update package dependencies.
 
 ## [5.2.2] - 2025-11-21
 ### Fixed
