@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [5.3.0-alpha] - unreleased
+## [6.0.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -18,6 +18,9 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Update composer.lock.
 - Update package dependencies.
+
+### Removed
+- General: Update minimum WordPress version to 6.8.
 
 ## [5.2.2] - 2025-11-21
 ### Fixed
@@ -277,7 +280,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[5.3.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.2...5.3.0-alpha
+[6.0.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.2...6.0.0-alpha
 [5.2.2]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.0...5.2.2
 [5.2.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.1.0...5.2.0
 [5.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.0.0...5.1.0
