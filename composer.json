@@ -4,7 +4,7 @@
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0-or-later",
 	"require": {
-		"automattic/jetpack-autoloader": "^5.0.15",
+		"automattic/jetpack-autoloader": "^5.0.16-alpha",
 		"automattic/jetpack-composer-plugin": "^4.0.5",
 		"automattic/jetpack-config": "^3.1.1",
 		"automattic/jetpack-connection": "^7.0.3",
@@ -15,7 +15,7 @@
 		"automattic/jetpack-sync": "^4.27.0"
 	},
 	"require-dev": {
-		"automattic/jetpack-changelogger": "^6.0.13",
+		"automattic/jetpack-changelogger": "^6.0.14-alpha",
 		"automattic/phpunit-select-config": "^1.0.3",
 		"yoast/phpunit-polyfills": "^4.0.0"
 	},
