@@ -16,6 +16,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Instant Search: Show WooCommerce product filters in filter widget
 - My Jetpack: Check red bubble notification async when cache is not available.
+- Remove header border-bottom from the admin page for a cleaner unified header appearance.
 - Update composer.lock.
 - Update package dependencies.
 
