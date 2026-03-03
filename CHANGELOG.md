@@ -23,6 +23,9 @@ This is an alpha version! The changes listed here are not final.
 ### Removed
 - General: Update minimum WordPress version to 6.8.
 
+### Fixed
+- Fix TS errors detected by tsgo.
+
 ## [5.2.2] - 2025-11-21
 ### Fixed
 - Jetpack: Remove getIconColor functions for block icons. [#45992]
