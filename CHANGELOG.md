@@ -24,6 +24,7 @@ This is an alpha version! The changes listed here are not final.
 - General: Update minimum WordPress version to 6.8.
 
 ### Fixed
+- Admin Page: Restore border on header component.
 - Fix TS errors detected by tsgo.
 
 ## [5.2.2] - 2025-11-21
