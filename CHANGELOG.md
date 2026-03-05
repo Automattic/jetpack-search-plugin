@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 - Instant Search: Show WooCommerce product filters in filter widget
 - My Jetpack: Check red bubble notification async when cache is not available.
 - Remove header border-bottom from the admin page for a cleaner unified header appearance.
+- Search: Use the core WordPress spinner component for the dashboard loading state.
 - Switch to Native TypeScript compiler based on Go.
 - Update composer.lock.
 - Update package dependencies.
