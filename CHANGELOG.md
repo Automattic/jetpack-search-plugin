@@ -28,6 +28,7 @@ This is an alpha version! The changes listed here are not final.
 ### Fixed
 - Admin Page: Restore border on header component.
 - Fix TS errors detected by tsgo.
+- Update e2e test selector for renamed footer CSS class.
 
 ## [5.2.2] - 2025-11-21
 ### Fixed
