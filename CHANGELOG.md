@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - IDC: Add revalidation for IDCs.
 
 ### Changed
+- Comment: Add Tracking to Jetpack upsell link.
 - Dependencies: Update lock file to keep root requirements in sync.
 - Instant Search: Show WooCommerce product filters in filter widget
 - My Jetpack: Check red bubble notification async when cache is not available.
