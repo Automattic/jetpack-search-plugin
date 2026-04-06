@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Search: Use the core WordPress spinner component for the dashboard loading state.
 - Switch to Native TypeScript compiler based on Go.
 - Update composer.lock.
+- Update design of the sidebar upsell.
 - Update package dependencies.
 
 ### Removed
