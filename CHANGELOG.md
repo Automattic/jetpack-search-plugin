@@ -5,33 +5,29 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [6.0.0-alpha] - unreleased
-
-This is an alpha version! The changes listed here are not final.
-
+## [6.0.0] - 2026-04-10
 ### Added
-- Adding Jetpack Protect details page for users without the dedicated Jetpack Protect plugin.
-- IDC: Add revalidation for IDCs.
+- Add Jetpack Protect details page for users without the dedicated Jetpack Protect plugin. [#46630]
+- IDC: Add revalidation for IDCs. [#46268]
 
 ### Changed
-- Comment: Add Tracking to Jetpack upsell link.
-- Dependencies: Update lock file to keep root requirements in sync.
-- Instant Search: Show WooCommerce product filters in filter widget
-- My Jetpack: Check red bubble notification async when cache is not available.
-- Remove header border-bottom from the admin page for a cleaner unified header appearance.
-- Search: Use the core WordPress spinner component for the dashboard loading state.
-- Switch to Native TypeScript compiler based on Go.
-- Update composer.lock.
-- Update design of the sidebar upsell.
-- Update package dependencies.
+- Dependencies: Update lock file to keep root requirements in sync. [#47418]
+- Instant Search: Show WooCommerce product filters in filter widget. [#46373]
+- My Jetpack: Check red bubble notification async when cache is not available. [#46396]
+- Remove header border-bottom from the admin page for a cleaner unified header appearance. [#47313]
+- Search: Use the core WordPress spinner component for the dashboard loading state. [#47467]
+- Switch to Native TypeScript compiler based on Go. [#47375]
+- Update composer.lock. [#46686]
+- Update design of the sidebar upsell. [#47909]
+- Update package dependencies. [#46785] [#47021] [#47285] [#47371] [#47505] [#47825]
 
 ### Removed
-- General: Update minimum WordPress version to 6.8.
+- General: Update minimum WordPress version to 6.8. [#46801]
 
 ### Fixed
-- Admin Page: Restore border on header component.
-- Fix TS errors detected by tsgo.
-- Update e2e test selector for renamed footer CSS class.
+- Admin Page: Restore border on header component. [#47425]
+- Fix TypeScript errors detected by tsgo. [#47426]
+- Update e2e test selector for renamed footer CSS class. [#47840]
 
 ## [5.2.2] - 2025-11-21
 ### Fixed
@@ -291,7 +287,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[6.0.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.2...6.0.0-alpha
+[6.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.2...6.0.0
 [5.2.2]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.0...5.2.2
 [5.2.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.1.0...5.2.0
 [5.1.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.0.0...5.1.0
