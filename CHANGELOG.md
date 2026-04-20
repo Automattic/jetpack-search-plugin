@@ -13,6 +13,9 @@ This is an alpha version! The changes listed here are not final.
 - Tested up to WordPress 7.0.
 - Update package dependencies.
 
+### Fixed
+- Fix mobile overflow on the upsell/pricing page so cards no longer get clipped.
+
 ## [6.0.0] - 2026-04-10
 ### Added
 - Add Jetpack Protect details page for users without the dedicated Jetpack Protect plugin. [#46630]
