@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Search: add fallback image capability in expanded search
 
 ### Changed
+- Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Tested up to WordPress 7.0.
 - Update package dependencies.
 
