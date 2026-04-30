@@ -7,7 +7,8 @@
 		"php": ">=7.2",
 		"automattic/jetpack-connection": "^8.3.3-alpha",
 		"automattic/jetpack-constants": "^3.0.9-alpha",
-		"automattic/jetpack-status": "^6.1.3-alpha"
+		"automattic/jetpack-status": "^6.1.3-alpha",
+		"automattic/jetpack-wp-abilities": "^0.1.0-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
@@ -50,7 +51,7 @@
 			"link-template": "https://github.com/Automattic/jetpack-stats/compare/v${old}...v${new}"
 		},
 		"branch-alias": {
-			"dev-trunk": "0.18.x-dev"
+			"dev-trunk": "0.19.x-dev"
 		},
 		"textdomain": "jetpack-stats"
 	},

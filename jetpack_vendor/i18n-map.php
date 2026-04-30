@@ -70,11 +70,15 @@ return array(
     ),
     'jetpack-stats' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.18.2-alpha1777322605',
+      'ver' => '0.19.0-alpha1777583813',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
       'ver' => '4.36.1-alpha1777322605',
+    ),
+    'jetpack-wp-abilities' => array(
+      'path' => 'jetpack_vendor/automattic/jetpack-wp-abilities',
+      'ver' => '0.1.0-alpha1777322605',
     ),
   ),
 );
