@@ -179,6 +179,7 @@ return array(
     'Automattic\\Jetpack\\Search\\Template_Tags' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/class-template-tags.php',
     'Automattic\\Jetpack\\Search\\WPES\\Query_Builder' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/wpes/class-query-builder.php',
     'Automattic\\Jetpack\\Search\\WPES\\Query_Parser' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/wpes/class-query-parser.php',
+    'Automattic\\Jetpack\\Search\\Wc_Block_Helpers' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/class-wc-block-helpers.php',
     'Automattic\\Jetpack\\Search_Plugin\\Jetpack_Search_Plugin' => $baseDir . '/src/class-jetpack-search-plugin.php',
     'Automattic\\Jetpack\\Stats\\Abilities\\Stats_Abilities' => $baseDir . '/jetpack_vendor/automattic/jetpack-stats/src/abilities/class-stats-abilities.php',
     'Automattic\\Jetpack\\Stats\\Main' => $baseDir . '/jetpack_vendor/automattic/jetpack-stats/src/class-main.php',
