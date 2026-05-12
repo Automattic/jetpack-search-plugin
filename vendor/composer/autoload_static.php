@@ -166,6 +166,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ6_1_0_
         'Automattic\\Jetpack\\Protect_Status\\Status' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-status.php',
         'Automattic\\Jetpack\\Redirect' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php',
         'Automattic\\Jetpack\\Roles' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php',
+        'Automattic\\Jetpack\\Search\\AI_Answers' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-ai-answers.php',
         'Automattic\\Jetpack\\Search\\CLI' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-cli.php',
         'Automattic\\Jetpack\\Search\\Classic_Search' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/classic-search/class-classic-search.php',
         'Automattic\\Jetpack\\Search\\Custom_Taxonomy_Slot_Mapping' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/class-custom-taxonomy-slot-mapping.php',

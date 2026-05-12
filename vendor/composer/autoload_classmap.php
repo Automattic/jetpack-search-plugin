@@ -146,6 +146,7 @@ return array(
     'Automattic\\Jetpack\\Protect_Status\\Status' => $baseDir . '/jetpack_vendor/automattic/jetpack-protect-status/src/class-status.php',
     'Automattic\\Jetpack\\Redirect' => $baseDir . '/jetpack_vendor/automattic/jetpack-redirect/src/class-redirect.php',
     'Automattic\\Jetpack\\Roles' => $baseDir . '/jetpack_vendor/automattic/jetpack-roles/src/class-roles.php',
+    'Automattic\\Jetpack\\Search\\AI_Answers' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/class-ai-answers.php',
     'Automattic\\Jetpack\\Search\\CLI' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/class-cli.php',
     'Automattic\\Jetpack\\Search\\Classic_Search' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/classic-search/class-classic-search.php',
     'Automattic\\Jetpack\\Search\\Custom_Taxonomy_Slot_Mapping' => $baseDir . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/class-custom-taxonomy-slot-mapping.php',
