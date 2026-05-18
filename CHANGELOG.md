@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add stats wp abbilities
 - Search: add fallback image capability in expanded search
+- Search: Adding auto-complete search query feature
 
 ### Changed
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
