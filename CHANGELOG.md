@@ -18,6 +18,7 @@ This is an alpha version! The changes listed here are not final.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Search 3.0: result cards now honor the site's date_format option (F j, Y, Y-m-d, etc.) instead of a fixed Intl shape.
 - Tested up to WordPress 7.0.
+- Updated package dependencies.
 - Update package dependencies.
 
 ### Fixed
