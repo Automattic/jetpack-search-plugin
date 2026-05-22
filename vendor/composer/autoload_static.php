@@ -177,7 +177,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ6_1_0_
         'Automattic\\Jetpack\\Search\\Excluded_Post_Types_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/customizer/customize-controls/class-excluded-post-types-control.php',
         'Automattic\\Jetpack\\Search\\Filter_Checkbox' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/blocks/filter-checkbox/class-filter-checkbox.php',
         'Automattic\\Jetpack\\Search\\Filter_Date' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/blocks/filter-date/class-filter-date.php',
-        'Automattic\\Jetpack\\Search\\Filter_Post_Type' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/blocks/filter-post-type/class-filter-post-type.php',
+        'Automattic\\Jetpack\\Search\\Filter_Post_Type' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/class-filter-post-type.php',
         'Automattic\\Jetpack\\Search\\Filter_Static' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/blocks/filter-static/class-filter-static.php',
         'Automattic\\Jetpack\\Search\\Filter_Wc_Attribute' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/blocks/filter-wc-attribute/class-filter-wc-attribute.php',
         'Automattic\\Jetpack\\Search\\Filter_Wc_Rating' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/blocks/filter-wc-rating/class-filter-wc-rating.php',
