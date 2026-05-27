@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Search 3.0: result cards now honor the site's date_format option (F j, Y, Y-m-d, etc.) instead of a fixed Intl shape.
+- Search Blocks Overlay: collapse the filter sidebar below 992px and dock a `filters-popover` trigger next to Sort By, matching the legacy Instant Search overlay UX.
 - Tested up to WordPress 7.0.
 - Updated package dependencies.
 - Update package dependencies.
