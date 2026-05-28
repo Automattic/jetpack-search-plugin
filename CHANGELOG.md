@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: Update minimum WordPress version to 6.9.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
+- Remove unneeded development and documentation files from the published plugin.
 - Search 3.0: result cards now honor the site's date_format option (F j, Y, Y-m-d, etc.) instead of a fixed Intl shape.
 - Search Blocks: default the checkbox-filter Custom Taxonomy label to the taxonomy's display name instead of leaving it empty.
 - Search Blocks: unify the three search-results templates' responsive layout under a shared `.jetpack-search-layout__*` class namespace, collapsing the duplicate sidebar-collapse rules from `block_template_overlay_inline_css()` and `search_page_inline_css()` into a single `search_layout_inline_css()` helper. Pure refactor — no behavior change.
