@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [6.1.0-alpha] - unreleased
+## [7.0.0-alpha] - unreleased
 
 This is an alpha version! The changes listed here are not final.
 
@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 - Search: Adding auto-complete search query feature
 
 ### Changed
+- General: Update minimum WordPress version to 6.9.
 - Internal: No longer require automattic/jetpack-changelogger as a per-project dev dependency.
 - Search 3.0: result cards now honor the site's date_format option (F j, Y, Y-m-d, etc.) instead of a fixed Intl shape.
 - Search Blocks: default the checkbox-filter Custom Taxonomy label to the taxonomy's display name instead of leaving it empty.
@@ -310,7 +311,7 @@ This is an alpha version! The changes listed here are not final.
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
-[6.1.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/6.0.0...6.1.0-alpha
+[7.0.0-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/6.0.0...7.0.0-alpha
 [6.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.2...6.0.0
 [5.2.2]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.0...5.2.2
 [5.2.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.1.0...5.2.0

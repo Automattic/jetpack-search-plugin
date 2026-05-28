@@ -66,19 +66,19 @@ return array(
     ),
     'jetpack-search-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-search',
-      'ver' => '7.2.0-alpha1779942287',
+      'ver' => '7.2.0-alpha1779942968',
     ),
     'jetpack-stats' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.19.2',
+      'ver' => '0.19.3-alpha1779942968',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
-      'ver' => '4.39.0-alpha1779779271',
+      'ver' => '4.39.0-alpha1779942968',
     ),
     'jetpack-wp-abilities' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-wp-abilities',
-      'ver' => '0.1.1',
+      'ver' => '0.1.2-alpha1779942968',
     ),
   ),
 );

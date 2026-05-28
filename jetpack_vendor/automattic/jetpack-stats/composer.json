@@ -8,7 +8,7 @@
 		"automattic/jetpack-connection": "^8.5.0-alpha",
 		"automattic/jetpack-constants": "^3.0.10",
 		"automattic/jetpack-status": "^6.1.5",
-		"automattic/jetpack-wp-abilities": "^0.1.1"
+		"automattic/jetpack-wp-abilities": "^0.1.2-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
