@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Add stats wp abbilities
 - Search: add fallback image capability in expanded search
 - Search: Adding auto-complete search query feature
+- Search Blocks Overlay: render product results and product filters from a dedicated product overlay template on WooCommerce product searches.
 
 ### Changed
 - General: Update minimum WordPress version to 6.9.
