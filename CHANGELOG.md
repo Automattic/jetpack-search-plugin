@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - Remove unneeded development and documentation files from the published plugin.
 - Search 3.0: result cards now honor the site's date_format option (F j, Y, Y-m-d, etc.) instead of a fixed Intl shape.
 - Search Blocks: default the checkbox-filter Custom Taxonomy label to the taxonomy's display name instead of leaving it empty.
+- Search Blocks: the product-search edit link now follows the active experience — "Edit the product Search overlay" for Overlay (blocks), "Edit the product search template" otherwise — and pairs with a Restore default that acts on the matching template. The product-search toggle and the Embedded experience are now marked Beta.
 - Search Blocks: unify the three search-results templates' responsive layout under a shared `.jetpack-search-layout__*` class namespace, collapsing the duplicate sidebar-collapse rules from `block_template_overlay_inline_css()` and `search_page_inline_css()` into a single `search_layout_inline_css()` helper. Pure refactor — no behavior change.
 - Search Blocks Overlay: collapse the filter sidebar below 992px and dock a `filters-popover` trigger next to Sort By, matching the legacy Instant Search overlay UX.
 - Search Blocks Overlay: separate the modal card from the dim scrim on dark themes by tinting the resolved surface and painting a token-aware hairline border, so the card visibly layers above the page behind it.
