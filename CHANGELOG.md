@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [7.0.1-alpha] - unreleased
+
+This is an alpha version! The changes listed here are not final.
+
 ## [7.0.0] - 2026-06-10
 ### Added
 - Search 7.0: build full search pages from native blocks — a Search Input block with search-as-you-type, Filters blocks (checkbox, date, custom taxonomy) with sidebar or collapsible-popover layouts, and Results blocks with selectable layouts, sorting, and load-more — all theme-aware on both block and classic themes. [#48563]
@@ -318,6 +322,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 [1.1.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.0.0...1.1.0-beta
 [1.2.0-beta]: https://github.com/Automattic/jetpack-search-plugin/compare/1.1.0...1.2.0-beta
+[7.0.1-alpha]: https://github.com/Automattic/jetpack-search-plugin/compare/7.0.0...7.0.1-alpha
 [7.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/6.0.0...7.0.0
 [6.0.0]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.2...6.0.0
 [5.2.2]: https://github.com/Automattic/jetpack-search-plugin/compare/5.2.0...5.2.2
