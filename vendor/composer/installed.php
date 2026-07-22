@@ -245,9 +245,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-search' => array(
-            'pretty_version' => '7.3.2-alpha.1784734664',
-            'version' => '7.3.2.0-alpha1784734664',
-            'reference' => 'dda09320da511cc46768a9b684fac4c4738ec1a8',
+            'pretty_version' => '7.3.2-alpha.1784735803',
+            'version' => '7.3.2.0-alpha1784735803',
+            'reference' => 'c45f73a9c5ef0127191b15cd9012afea6e29892a',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-search',
             'aliases' => array(),
