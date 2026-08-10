@@ -76,9 +76,9 @@ return array(
       'path' => 'jetpack_vendor/automattic/jetpack-search',
       'ver' => '7.3.4-alpha1785922550',
     ),
-    'jetpack-stats' => array(
+    'jetpack-stats-pkg' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-stats',
-      'ver' => '0.20.1-alpha1785896836',
+      'ver' => '0.20.1-alpha1786339723',
     ),
     'jetpack-sync' => array(
       'path' => 'jetpack_vendor/automattic/jetpack-sync',
