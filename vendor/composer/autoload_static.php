@@ -4,7 +4,7 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_0_2_alpha
+class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_1_0_alpha
 {
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/actions.php',
@@ -202,6 +202,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_0_2_
         'Automattic\\Jetpack\\Search\\Instant_Search' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/instant-search/class-instant-search.php',
         'Automattic\\Jetpack\\Search\\Label_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/customizer/customize-controls/class-label-control.php',
         'Automattic\\Jetpack\\Search\\Module_Control' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-module-control.php',
+        'Automattic\\Jetpack\\Search\\No_Results' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/class-no-results.php',
         'Automattic\\Jetpack\\Search\\Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-options.php',
         'Automattic\\Jetpack\\Search\\Overlay_Template' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/search-blocks/class-overlay-template.php',
         'Automattic\\Jetpack\\Search\\Package' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-search/src/class-package.php',
@@ -312,9 +313,9 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_0_2_
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixLengthsPsr4 = ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_0_2_alpha::$prefixLengthsPsr4;
-            $loader->prefixDirsPsr4 = ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_0_2_alpha::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_0_2_alpha::$classMap;
+            $loader->prefixLengthsPsr4 = ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_1_0_alpha::$prefixLengthsPsr4;
+            $loader->prefixDirsPsr4 = ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_1_0_alpha::$prefixDirsPsr4;
+            $loader->classMap = ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ7_1_0_alpha::$classMap;
 
         }, null, ClassLoader::class);
     }
