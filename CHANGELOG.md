@@ -9,6 +9,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Fixed
+- Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
+
 ## [7.1.0] - 2026-08-13
 ### Added
 - Add the Activity Log page to wp-admin, so it is available without the Jetpack plugin installed. [#51222]
