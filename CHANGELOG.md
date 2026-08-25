@@ -14,6 +14,9 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - Tested up to WordPress 7.1.
 
+### Removed
+- Updated PHP version requirements to PHP 7.4 or newer.
+
 ### Fixed
 - Charts: draw labels at the design system's font weight and size.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
