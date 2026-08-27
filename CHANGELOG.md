@@ -15,6 +15,7 @@ This is an alpha version! The changes listed here are not final.
 ### Changed
 - General: Update minimum WordPress version to 7.0.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
+- Search: report the saved AI Answers choice while the site-wide AI switch is off, disable the controls, and honor the host AI opt-out in the AI Answer block. Require Instant Search to enable AI Answers. The master-state reporting follows the rollout: live on WordPress.com Simple, internal testing environments elsewhere.
 - Tested up to WordPress 7.1.
 
 ### Removed
