@@ -37,6 +37,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
+- Require a paid Search plan to enable AI Answers, not just the setting's raw value.
 
 ## [7.1.0] - 2026-08-13
 ### Added
