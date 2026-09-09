@@ -33,6 +33,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: Fix the page overlapping the admin menu in right-to-left languages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - Charts: draw labels at the design system's font weight and size.
+- Connection: Hide connection error notices from users who cannot fix the connection.
 - Connection: Stop showing a duplicate account notice when your WordPress.com email differs from your site email only in letter case.
 - Connection: Update wording for some connection error notices.
 - Fix a crash on mount when the localized widget configuration is missing or incomplete, which could leave the whole page blank.
