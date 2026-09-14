@@ -9,6 +9,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ8_0_0_
     public static $files = array (
         '3773ef3f09c37da5478d578e32b03a4b' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-assets/actions.php',
         '7372b7fb88a9723cf5b76d456eb0b738' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/actions.php',
+        '483ab369492aebf2550e8341e3d031c8' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-licensing/actions.php',
     );
 
     public static $prefixLengthsPsr4 = array (
@@ -108,6 +109,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ8_0_0_
         'Automattic\\Jetpack\\Errors' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-errors.php',
         'Automattic\\Jetpack\\ExPlat' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-explat/src/class-explat.php',
         'Automattic\\Jetpack\\ExPlat\\REST_Controller' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-explat/src/class-rest-controller.php',
+        'Automattic\\Jetpack\\Feature_Flags\\Feature_Flags' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-feature-flags/src/class-feature-flags.php',
         'Automattic\\Jetpack\\Files' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-status/src/class-files.php',
         'Automattic\\Jetpack\\Heartbeat' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-connection/src/class-heartbeat.php',
         'Automattic\\Jetpack\\IP\\Utils' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-ip/src/class-utils.php',
