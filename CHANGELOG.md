@@ -26,6 +26,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show what Paid Stats actually adds — UTM tracking, device stats, and region & city locations — instead of commercial use.
 - No Results block: Show each empty-state message as it will appear to visitors while editing, and tell the messages apart by name when browsing the page structure.
 - Search: report the saved AI Answers choice while the site-wide AI switch is off, disable the controls, and honor the host AI opt-out in the AI Answer block. Require Instant Search to enable AI Answers. The master-state reporting follows the rollout: live on WordPress.com Simple, internal testing environments elsewhere.
+- Show the dashboard in the new rounded admin page frame.
 - Sidebar: sort Jetpack menu items alphabetically, pinning My Jetpack to the top and external links and Settings to the bottom.
 - Tested up to WordPress 7.1.
 - Update package dependencies.
