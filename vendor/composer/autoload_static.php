@@ -236,6 +236,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ8_0_0_
         'Automattic\\Jetpack\\Stats\\Options' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-options.php',
         'Automattic\\Jetpack\\Stats\\Package_Version' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-package-version.php',
         'Automattic\\Jetpack\\Stats\\REST_Provider' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-rest-provider.php',
+        'Automattic\\Jetpack\\Stats\\Settings' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-settings.php',
         'Automattic\\Jetpack\\Stats\\Tracking_Pixel' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-tracking-pixel.php',
         'Automattic\\Jetpack\\Stats\\Transient_Cleanup' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-transient-cleanup.php',
         'Automattic\\Jetpack\\Stats\\WPCOM_Stats' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-stats/src/class-wpcom-stats.php',
