@@ -48,6 +48,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Update wording for some connection error notices.
 - Fix a crash on mount when the localized widget configuration is missing or incomplete, which could leave the whole page blank.
 - Fix the Search dashboard failing to load on WordPress.com-hosted sites.
+- Footer: Hide Products and Help links when My Jetpack is unavailable.
 - Instant Search: Fix a leaked scroll handler that could trigger stray page loads after several searches.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
