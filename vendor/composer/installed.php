@@ -22,7 +22,7 @@
         'automattic/jetpack-activity-log' => array(
             'pretty_version' => '0.4.1',
             'version' => '0.4.1.0',
-            'reference' => '2c2c0da9b9377e5918cbb58f511921f5699bafe4',
+            'reference' => '5869946c40d0c9007bf0d477b91c6b84bd6c53ff',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-activity-log',
             'aliases' => array(),
@@ -184,7 +184,7 @@
         'automattic/jetpack-my-jetpack' => array(
             'pretty_version' => '6.5.0-alpha.1790095377',
             'version' => '6.5.0.0-alpha1790095377',
-            'reference' => 'a0a7c514b12e41a8126497b9e53be93aef087f44',
+            'reference' => 'c57d77c8c1577ceb6f950599477fd7a27ab9e675',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
@@ -256,7 +256,7 @@
         'automattic/jetpack-search' => array(
             'pretty_version' => '8.2.0-alpha.1790095377',
             'version' => '8.2.0.0-alpha1790095377',
-            'reference' => '9eab8901eaea6759427c2355b5c6eea63861c213',
+            'reference' => '975ca19d146bb1bc4e5f0b75dc22202d77f52991',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-search',
             'aliases' => array(),
@@ -308,9 +308,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-wp-build-polyfills' => array(
-            'pretty_version' => '0.5.7',
-            'version' => '0.5.7.0',
-            'reference' => 'f2310268ac30595b2ed759d079bcc5a1c56833f7',
+            'pretty_version' => '0.5.8-alpha.1790102028',
+            'version' => '0.5.8.0-alpha1790102028',
+            'reference' => 'acae79b09d1877f827743b73d744445559beeb78',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-wp-build-polyfills',
             'aliases' => array(),
