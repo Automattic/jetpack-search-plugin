@@ -57,6 +57,7 @@ This is an alpha version! The changes listed here are not final.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
+- My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
 - My Jetpack: Offer to activate Search, rather than to buy a plan, when the site already owns it and the module is switched off.
