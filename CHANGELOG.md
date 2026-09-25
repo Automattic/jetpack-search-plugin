@@ -68,6 +68,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: stretch the tab content background to the full height of the page.
 - Require a paid Search plan to enable AI Answers, not just the setting's raw value.
 - Show Jetpack in-dashboard messages on every tab, not just Overview.
+- Site Chat: Require a paid Search plan to enable chat.
 - Status: Detect a site served on any 127.0.0.0/8 loopback address, or on 0.0.0.0, as a local site.
 
 ## [7.1.0] - 2026-08-13
