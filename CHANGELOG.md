@@ -43,6 +43,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: honor the module setting, so the page can be turned off.
 - Activity Log: Stop the frame from flashing while loading and when switching admin pages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
+- AI Answer: Show the disabled notice when the host turns off AI, and hide the block from the inserter whenever Jetpack AI is off.
 - AI Answers: Keep the search preview hidden when answers are turned off.
 - AI Answers: Respect the site-wide Jetpack AI filter.
 - Blocks: Stop offering Search blocks in the Overlay search sidebar's widget inserter, and flag any already there, because they cannot load in that sidebar.
