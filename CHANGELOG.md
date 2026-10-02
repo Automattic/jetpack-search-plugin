@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
 ### Changed
+- Activate the free Search plan without being sent through a $0 checkout.
 - Activity Log: Show the connection error notice only when a connection error has been recorded.
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
