@@ -61,6 +61,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Update wording for some connection error notices.
 - Dashboard: Open information tooltips with the keyboard and dismiss them with Escape.
+- Dashboard: Start the experience switch and Restore default confirmations on Cancel, so pressing Enter no longer switches the search experience or deletes a customized template.
 - Fix a crash on mount when the localized widget configuration is missing or incomplete, which could leave the whole page blank.
 - Fix the Search dashboard failing to load on WordPress.com-hosted sites.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
