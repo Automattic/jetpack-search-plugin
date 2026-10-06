@@ -13,7 +13,7 @@
 		"automattic/jetpack-search": "^8.3.0",
 		"automattic/jetpack-stats": "^0.22.1",
 		"automattic/jetpack-status": "^7.1.0",
-		"automattic/jetpack-sync": "^5.4.0"
+		"automattic/jetpack-sync": "^5.4.1-alpha"
 	},
 	"require-dev": {
 		"automattic/phpunit-select-config": "^1.0.11",
