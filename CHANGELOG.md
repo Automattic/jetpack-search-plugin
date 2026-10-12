@@ -50,6 +50,7 @@ This is an alpha version! The changes listed here are not final.
 - AI Answer: Show the disabled notice when the host turns off AI, and hide the block from the inserter whenever Jetpack AI is off.
 - AI Answers: Keep the search preview hidden when answers are turned off.
 - AI Answers: Respect the site-wide Jetpack AI filter.
+- Avoid requesting the Search plan in offline mode.
 - Blocks: Stop offering Search blocks in the Overlay search sidebar's widget inserter, and flag any already there, because they cannot load in that sidebar.
 - Charts: draw labels at the design system's font weight and size.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
