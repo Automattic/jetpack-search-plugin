@@ -11,7 +11,7 @@
 		"automattic/jetpack-connection": "^9.10.0-alpha",
 		"automattic/jetpack-my-jetpack": "^6.9.1-alpha",
 		"automattic/jetpack-search": "^8.3.1-alpha",
-		"automattic/jetpack-stats": "^0.22.1",
+		"automattic/jetpack-stats": "^0.23.0-alpha",
 		"automattic/jetpack-status": "^7.1.0",
 		"automattic/jetpack-sync": "^5.4.1"
 	},
