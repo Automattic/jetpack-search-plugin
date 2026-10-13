@@ -78,6 +78,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Offer to activate Search, rather than to buy a plan, when the site already owns it and the module is switched off.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
+- My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
