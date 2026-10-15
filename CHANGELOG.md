@@ -13,6 +13,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Add a Connected view to the Users page listing users with a linked WordPress.com account.
 - Connection: Surface SSL certificate verification failures reported by WordPress.com as a connection error notice.
 - Connection: Transfer connection ownership to another administrator without leaving your site.
+- Connection: Transfer connection ownership to another connected administrator from the Connectors page.
 - My Jetpack: Add an Available filter to the Features list.
 - My Jetpack: Allow the Automattic for Agencies banner to be dismissed.
 
