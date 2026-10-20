@@ -152,6 +152,7 @@ class ComposerStaticInitb462338fb66be23595d68a93345c9e3d_jetpack_searchⓥ8_0_0_
         'Automattic\\Jetpack\\My_Jetpack\\Products\\Jetpack_Ai' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-ai.php',
         'Automattic\\Jetpack\\My_Jetpack\\Products\\Jetpack_Forms' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-jetpack-forms.php',
         'Automattic\\Jetpack\\My_Jetpack\\Products\\Newsletter' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-newsletter.php',
+        'Automattic\\Jetpack\\My_Jetpack\\Products\\Pro' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-pro.php',
         'Automattic\\Jetpack\\My_Jetpack\\Products\\Protect' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-protect.php',
         'Automattic\\Jetpack\\My_Jetpack\\Products\\Related_Posts' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-related-posts.php',
         'Automattic\\Jetpack\\My_Jetpack\\Products\\Scan' => __DIR__ . '/../..' . '/jetpack_vendor/automattic/jetpack-my-jetpack/src/products/class-scan.php',
