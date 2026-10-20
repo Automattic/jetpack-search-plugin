@@ -25,6 +25,7 @@ This is an alpha version! The changes listed here are not final.
 - Boost: Wait up to four minutes for slow speed tests in My Jetpack instead of timing out after two.
 - Charts: follow the WordPress admin color scheme for chart series colors.
 - Charts: update chart grid, axis and label colors immediately when the theme changes.
+- Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
 - Dashboard: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
 - Drop the Preview label from AI Answers.
