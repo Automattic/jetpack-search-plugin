@@ -85,6 +85,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix the layout of the connection screen for right-to-left languages.
 - My Jetpack: Hide other plugins' notices while the setup screen is open, and stop the full-screen layout breaking when another plugin adds an admin body class first.
 - My Jetpack: Keep the Automattic for Agencies banner hidden after dismissing it and switching tabs.
+- My Jetpack: Keep the Help tab's cards inside their column on narrow screens.
 - My Jetpack: keep the stats chart tooltip under sticky and fixed page elements.
 - My Jetpack: Make the connection screen's Connect button and footer links reachable on shorter screens.
 - My Jetpack: Offer to activate Search, rather than to buy a plan, when the site already owns it and the module is switched off.
