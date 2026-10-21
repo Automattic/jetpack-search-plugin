@@ -79,6 +79,7 @@ This is an alpha version! The changes listed here are not final.
 - Fix the Search dashboard failing to load on WordPress.com-hosted sites.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
 - Instant Search: Fix a leaked scroll handler that could trigger stray page loads after several searches.
+- Instant Search: Open the filters panel below the results header on small screens, so the Filters toggle stays visible.
 - JITM: Fix missing messages and a console error on sites without the Jetpack plugin active.
 - Keep admin icons colored after the @wordpress/icons 16 update, which draws them as strokes.
 - My Jetpack: always label the license activation link 'Activate a license'. It previously read 'Activate a new license' on sites with a plan, even when no licenses had been activated.
