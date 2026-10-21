@@ -96,6 +96,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show each notice once instead of twice.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
+- My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card on sites without a connection owner when nothing in use needs a user connection.
