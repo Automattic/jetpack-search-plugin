@@ -62,6 +62,7 @@ This is an alpha version! The changes listed here are not final.
 - Avoid requesting the Search plan in offline mode.
 - Blocks: Stop offering Search blocks in the Overlay search sidebar's widget inserter, and flag any already there, because they cannot load in that sidebar.
 - Charts: draw labels at the design system's font weight and size.
+- Connection: Explain why connecting the site failed instead of showing a raw or generic error.
 - Connection: Fix a stale connection error notice that could persist on healthy sites.
 - Connection: Fix reconnecting your WordPress.com account so it no longer disconnects other users and clears the broken-connection notice on the first attempt.
 - Connection: Hide connection error notices from users who cannot fix the connection.
