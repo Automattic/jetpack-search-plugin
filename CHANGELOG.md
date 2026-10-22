@@ -74,6 +74,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Stop users who cannot set up the site connection from becoming the connection owner when the owner's connection is missing.
 - Connection: Translate the Connectors card's text on sites that don't use English.
 - Connection: Update wording for some connection error notices.
+- Dashboard: Activate free Search in place from "Start for free" instead of falling back to the $0 checkout.
 - Dashboard: Open information tooltips with the keyboard and dismiss them with Escape.
 - Dashboard: Start the experience switch and Restore default confirmations on Cancel, so pressing Enter no longer switches the search experience or deletes a customized template.
 - Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
