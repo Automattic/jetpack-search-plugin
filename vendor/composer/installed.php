@@ -184,7 +184,7 @@
         'automattic/jetpack-my-jetpack' => array(
             'pretty_version' => '6.13.0-alpha.1792661295',
             'version' => '6.13.0.0-alpha1792661295',
-            'reference' => 'd13519eb6948b4d1d2d8f6a970519e6e7dbbdc11',
+            'reference' => 'a6734bac5c8873352f7280035d88e6bf60cd168d',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
@@ -229,7 +229,7 @@
         'automattic/jetpack-protect-status' => array(
             'pretty_version' => '0.9.1',
             'version' => '0.9.1.0',
-            'reference' => 'e857821072a2f993c4fe483fe9d6bad5e700c906',
+            'reference' => '923290198466ab9a14087967c80ae1810342bef9',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-protect-status',
             'aliases' => array(),
@@ -256,7 +256,7 @@
         'automattic/jetpack-search' => array(
             'pretty_version' => '8.3.4-alpha.1792654342',
             'version' => '8.3.4.0-alpha1792654342',
-            'reference' => '23b525006ef749efec8569afa210d50ad1d51ebd',
+            'reference' => '7dce934d23037dda0f98ef21bdc4ed695fe3dc8e',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-search',
             'aliases' => array(),
@@ -290,9 +290,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-sync' => array(
-            'pretty_version' => '5.4.3',
-            'version' => '5.4.3.0',
-            'reference' => '2250da6b0a62e95e92549d148615b714f4b70111',
+            'pretty_version' => '5.4.4-alpha.1792661538',
+            'version' => '5.4.4.0-alpha1792661538',
+            'reference' => 'a3af2203c49afeeabacb970edcad17a03722f21b',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-sync',
             'aliases' => array(),
