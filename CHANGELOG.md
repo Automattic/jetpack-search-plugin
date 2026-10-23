@@ -78,7 +78,6 @@ This is an alpha version! The changes listed here are not final.
 - Dashboard: Activate free Search in place from "Start for free" instead of falling back to the $0 checkout.
 - Dashboard: Open information tooltips with the keyboard and dismiss them with Escape.
 - Dashboard: Start the experience switch and Restore default confirmations on Cancel, so pressing Enter no longer switches the search experience or deletes a customized template.
-- Features: Show a plugin as active when a Beta or -dev copy is active beside an installed stable copy, and turn off the active copy when deactivating it.
 - Fix a crash on mount when the localized widget configuration is missing or incomplete, which could leave the whole page blank.
 - Fix the Search dashboard failing to load on WordPress.com-hosted sites.
 - Footer: Hide Products and Help links when My Jetpack is unavailable.
@@ -96,6 +95,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Offer to activate Search, rather than to buy a plan, when the site already owns it and the module is switched off.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
+- My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
