@@ -57,6 +57,7 @@ This is an alpha version! The changes listed here are not final.
 - Activity Log: Continue the wp-admin menu color behind the page frame on WordPress.com and third-party admin color schemes.
 - Activity Log: Fix the page overlapping the admin menu in right-to-left languages.
 - Activity Log: honor the module setting, so the page can be turned off.
+- Activity Log: Show an empty date picker on the free plan, instead of a date range it does not apply.
 - Activity Log: Stop the frame from flashing while loading and when switching admin pages.
 - Admin dashboards: Keep the page header and content in view when the wp-admin menu is taller than the window.
 - AI Answer: Show the disabled notice when the host turns off AI, and hide the block from the inserter whenever Jetpack AI is off.
