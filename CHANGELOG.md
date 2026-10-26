@@ -29,6 +29,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Ask for confirmation before disconnecting your user account, and offer to transfer ownership first when you own the connection.
 - Connection: Link the connection owner's name on the Connectors card to their profile, and update the card without reloading the page when a non-owner disconnects their account.
 - Connection: Show every connection error in one notice, each with the account it affects, and link to Site Health when a firewall is blocking WordPress.com.
+- Connection: Use one wording across My Jetpack and the Connectors screen for the consent notice shown before connecting, for Offline Mode, and for the ownership lock.
 - Connection: When disconnecting the site from the Connectors card, list the plugins that will stop working and link to help.
 - Dashboard: Keep focus on information icons when their tooltips open, announce the content to screen readers, and show a focus ring after clicking them.
 - Drop the Preview label from AI Answers.
