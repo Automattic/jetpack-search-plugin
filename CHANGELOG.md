@@ -101,6 +101,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Point users who cannot connect the site at an administrator, instead of an onboarding screen they cannot complete.
 - My Jetpack: Show each notice once instead of twice.
 - My Jetpack: Show the correct product status and use the active plugin copy when turning products on or off with both stable and Beta or development copies installed.
+- My Jetpack: Show the fallback starting price per month, billed yearly, instead of $100 a month on the upgrade page when prices cannot be loaded.
 - My Jetpack: Show the highest-priority notice first when several are set at once.
 - My Jetpack: Show the right product status as soon as fresher plan data is available, instead of reusing an earlier lookup.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
