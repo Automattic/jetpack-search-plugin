@@ -61,6 +61,7 @@ This is an alpha version! The changes listed here are not final.
 - Update package dependencies.
 
 ### Removed
+- Search Dashboard: Remove the AI Agent Access toggle.
 - Updated PHP version requirements to PHP 7.4 or newer.
 
 ### Fixed
