@@ -182,9 +182,9 @@
             'dev_requirement' => false,
         ),
         'automattic/jetpack-my-jetpack' => array(
-            'pretty_version' => '6.16.0',
-            'version' => '6.16.0.0',
-            'reference' => '09027a9e38c85330fbcb674e027e471ecabf260b',
+            'pretty_version' => '6.17.0-alpha.1793829500',
+            'version' => '6.17.0.0-alpha1793829500',
+            'reference' => 'ae651ce6d93d06f5b2f19b9781df074d8ca152dd',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-my-jetpack',
             'aliases' => array(),
@@ -256,7 +256,7 @@
         'automattic/jetpack-search' => array(
             'pretty_version' => '8.4.1',
             'version' => '8.4.1.0',
-            'reference' => '7610a21e27a942460ff5d18be2fe9e126bcb1278',
+            'reference' => '98d4fded07824a32114cfd827abc188225c7ad61',
             'type' => 'jetpack-library',
             'install_path' => __DIR__ . '/../../jetpack_vendor/automattic/jetpack-search',
             'aliases' => array(),
