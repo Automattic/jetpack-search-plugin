@@ -120,6 +120,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Stop offering retired Security and Growth plans while preserving existing subscriptions.
 - My Jetpack: Stop repeating the partner lookup request on every page load.
 - My Jetpack: Stop reporting an error when switching VideoPress off while the Jetpack plugin is inactive.
+- My Jetpack: Stop showing $0.00 for paid plans on recommendation cards when prices cannot be loaded.
 - My Jetpack: Stop showing an empty account avatar on the Overview connection card on sites without a connection owner when nothing in use needs a user connection.
 - My Jetpack: Stop the Stats dashboard from asking which plan you want again after Start for Free was already chosen.
 - My Jetpack: stretch the tab content background to the full height of the page.
