@@ -12,6 +12,9 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
+### Changed
+- Update package dependencies.
+
 ### Fixed
 - Footer: Show the Features link to administrators only.
 
