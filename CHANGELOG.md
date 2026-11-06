@@ -17,6 +17,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Fixed
 - Footer: Show the Features link to administrators only.
+- Stats: Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
 
 ## [8.0.0] - 2026-11-04
 ### Added
