@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
 - My Jetpack: Fix the Security and Growth filters on the Features tab showing no features.
 - Stats: Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
+- Stats: Count visitors who have not made a consent choice on opt-out sites when a performance plugin delays the WP Consent API script.
 
 ## [8.0.0] - 2026-11-04
 ### Added
