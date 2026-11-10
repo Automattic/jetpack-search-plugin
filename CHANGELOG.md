@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
+- Stats: Mark the jetpack-stats/update-settings ability as destructive, since it overwrites the saved Stats settings.
 - Update package dependencies.
 
 ### Fixed
