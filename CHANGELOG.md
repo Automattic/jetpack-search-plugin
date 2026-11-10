@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix the Security and Growth filters on the Features tab showing no features.
 - Stats: Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
 - Stats: Count visitors who have not made a consent choice on opt-out sites when a performance plugin delays the WP Consent API script.
+- Stats: On sites running the WP Consent API, count AMP views only after the visitor allows statistics in an AMP consent banner. AMP pages without one, AMP pages not rendered by the AMP plugin, and Web Stories are no longer counted there.
 
 ## [8.0.0] - 2026-11-04
 ### Added
