@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
+- My Jetpack: Return to the license screen after you connect your account from "Activate a license", and show the WordPress.com connection screen made for your site's plugins.
 - Stats: Mark the jetpack-stats/update-settings ability as destructive, since it overwrites the saved Stats settings.
 - Update package dependencies.
 
