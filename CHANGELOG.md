@@ -31,6 +31,7 @@ This is an alpha version! The changes listed here are not final.
 - Stats: Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
 - Stats: Count visitors who have not made a consent choice on opt-out sites when a performance plugin delays the WP Consent API script.
 - Stats: On sites running the WP Consent API, count AMP views only after the visitor allows statistics in an AMP consent banner. AMP pages without one, AMP pages not rendered by the AMP plugin, and Web Stories are no longer counted there.
+- Stop the upgrade screen from briefly offering Jetpack Complete before Jetpack Pro.
 
 ## [8.0.0] - 2026-11-04
 ### Added
