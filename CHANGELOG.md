@@ -21,6 +21,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Return to the page you were on after you connect your account or restore the connection from the header, and show the WordPress.com connection screen made for your site's plugins.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from a product card.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from the Features tab.
+- Reduce database queries when loading Instant Search on sites without a persistent object cache.
 - Stats: Mark the jetpack-stats/update-settings ability as destructive, since it overwrites the saved Stats settings.
 - Update package dependencies.
 
