@@ -22,6 +22,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from a product card.
 - My Jetpack: Show the WordPress.com connection screen made for your site's plugins when you connect your account from the Features tab.
 - Reduce database queries when loading Instant Search on sites without a persistent object cache.
+- Safe Mode: Show the Jetpack Safe Mode admin bar item while the choice is still pending, style it on the front end of the site too, and have it open My Jetpack from Jetpack pages that can't show the Safe Mode screen.
 - Stats: Mark the jetpack-stats/update-settings ability as destructive, since it overwrites the saved Stats settings.
 - Update package dependencies.
 
