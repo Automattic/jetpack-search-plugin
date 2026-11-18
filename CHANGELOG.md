@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
 - My Jetpack: Fix the Security and Growth filters on the Features tab showing no features.
 - My Jetpack: Show what went wrong and let users retry when the onboarding connection to WordPress.com fails.
+- Safe Mode: Show the WordPress.com address correctly instead of reversed after Safe Mode checks the connection again.
 - Safe Mode: Stop showing the Safe Mode screen to non-admins once an admin has chosen to stay in Safe Mode.
 - Stats: Count visitors who allowed statistics when a performance plugin delays the WP Consent API script.
 - Stats: Count visitors who have not made a consent choice on opt-out sites when a performance plugin delays the WP Consent API script.
