@@ -14,6 +14,7 @@ This is an alpha version! The changes listed here are not final.
 - Site Health: Add Jetpack connection details to the Info tab and the copied site info report.
 
 ### Changed
+- Abilities: Make the Stats abilities available to AI agents by default. Return false from the jetpack_wp_abilities_enabled filter in an mu-plugin to turn them off.
 - My Jetpack: Highlight expiring and expired plans in the account panel under your avatar, list them first with a renew link, and show other plans as active until their renewal date.
 - My Jetpack: On sites with Jetpack Pro, replace "Purchase a plan" with "Upgrade to Complete", which goes straight to checkout.
 - My Jetpack: Remember whether you last picked the grid or the list layout on the Features tab, and open the tab in that layout next time.
