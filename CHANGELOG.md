@@ -32,6 +32,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Let a second administrator fix a broken connection owner by connecting their own account, which makes them the new owner.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Footer: Show the Features link to administrators only.
+- Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - Load the Search block styles only on pages that show the blocks, on sites that turn off on-demand block assets.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
