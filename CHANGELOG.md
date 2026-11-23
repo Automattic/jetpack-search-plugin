@@ -34,6 +34,7 @@ This is an alpha version! The changes listed here are not final.
 - Footer: Show the Features link to administrators only.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - Load the Search block styles only on pages that show the blocks, on sites that turn off on-demand block assets.
+- My Jetpack: Don't install a product's plugin when plugin installs are turned off or the user can't install plugins.
 - My Jetpack: Fill checked checkboxes in the Features list with the selected filter's color, show their focus ring only for keyboard focus, and show one focus ring per control instead of two.
 - My Jetpack: Fix the Learn more, Manage and Connect buttons on recommendation cards, which did nothing.
 - My Jetpack: Fix the Overview showing a product's old status after a feature is switched on or off on the Features tab.
