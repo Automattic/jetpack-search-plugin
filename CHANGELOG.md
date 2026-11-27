@@ -36,6 +36,7 @@ This is an alpha version! The changes listed here are not final.
 - Connection: Show clearer messages when the connect request to your site fails, for example because its REST API is disabled or a PHP error broke the response.
 - Connection: Stop showing a connection error notice for a request signature mismatch, which reconnecting rarely fixes.
 - Footer: Show the Features link to administrators only.
+- Format numbers in the site's full locale, so Traditional Chinese sites read 萬 instead of 万.
 - Hide the "Use license key" link where it can't be used, such as in Offline Mode.
 - Load the Search block styles only on pages that show the blocks, on sites that turn off on-demand block assets.
 - My Jetpack: Announce the same connection status on the header's account button as in its panel, and read that status first when the panel opens from the keyboard.
